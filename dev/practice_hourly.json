@@ -1,0 +1,6482 @@
+{
+"Marvel's Wolverine": {
+"day_start": "2026-09-15T00:00:00Z",
+"hourly": [
+{
+"from": "2026-09-01T02:00:00Z",
+"viewers": 1.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-01T06:00:00Z",
+"viewers": 0.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-01T07:00:00Z",
+"viewers": 1.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-01T09:00:00Z",
+"viewers": 0.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-02T05:00:00Z",
+"viewers": 0.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-02T06:00:00Z",
+"viewers": 1.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-02T07:00:00Z",
+"viewers": 0.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-03T06:00:00Z",
+"viewers": 0.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-03T07:00:00Z",
+"viewers": 1.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-03T12:00:00Z",
+"viewers": 1.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-03T13:00:00Z",
+"viewers": 1.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-03T14:00:00Z",
+"viewers": 2.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-03T15:00:00Z",
+"viewers": 2.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-03T22:00:00Z",
+"viewers": 178.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-03T23:00:00Z",
+"viewers": 94.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-04T06:00:00Z",
+"viewers": 0.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-04T07:00:00Z",
+"viewers": 1.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-04T16:00:00Z",
+"viewers": 5.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-04T17:00:00Z",
+"viewers": 37.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-04T19:00:00Z",
+"viewers": 14.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-04T20:00:00Z",
+"viewers": 26.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-04T21:00:00Z",
+"viewers": 55.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-05T02:00:00Z",
+"viewers": 38.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-05T03:00:00Z",
+"viewers": 50.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-05T04:00:00Z",
+"viewers": 39.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-05T06:00:00Z",
+"viewers": 0.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-05T07:00:00Z",
+"viewers": 1.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-05T13:00:00Z",
+"viewers": 9.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-05T14:00:00Z",
+"viewers": 40.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-05T15:00:00Z",
+"viewers": 50.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-05T22:00:00Z",
+"viewers": 2.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-05T23:00:00Z",
+"viewers": 3.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-06T00:00:00Z",
+"viewers": 3.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-06T01:00:00Z",
+"viewers": 1.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-06T02:00:00Z",
+"viewers": 2.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-06T06:00:00Z",
+"viewers": 1.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-06T07:00:00Z",
+"viewers": 1.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-07T06:00:00Z",
+"viewers": 0.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-07T07:00:00Z",
+"viewers": 1.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-07T22:00:00Z",
+"viewers": 1.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-07T23:00:00Z",
+"viewers": 1.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-08T00:00:00Z",
+"viewers": 2.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-08T04:00:00Z",
+"viewers": 1.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-08T06:00:00Z",
+"viewers": 0.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-08T07:00:00Z",
+"viewers": 2.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-08T19:00:00Z",
+"viewers": 3.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-08T22:00:00Z",
+"viewers": 2.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-08T23:00:00Z",
+"viewers": 2.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-09T00:00:00Z",
+"viewers": 2.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-09T06:00:00Z",
+"viewers": 0.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-09T07:00:00Z",
+"viewers": 1.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-09T08:00:00Z",
+"viewers": 1.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-09T18:00:00Z",
+"viewers": 0.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-09T22:00:00Z",
+"viewers": 1.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-09T23:00:00Z",
+"viewers": 1.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-10T00:00:00Z",
+"viewers": 5.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-10T01:00:00Z",
+"viewers": 4.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-10T05:00:00Z",
+"viewers": 2.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-10T06:00:00Z",
+"viewers": 0.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-10T07:00:00Z",
+"viewers": 1.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-10T09:00:00Z",
+"viewers": 0.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-10T14:00:00Z",
+"viewers": 10.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-10T15:00:00Z",
+"viewers": 47.0,
+"channels": 3.0
+},
+{
+"from": "2026-09-10T16:00:00Z",
+"viewers": 81.0,
+"channels": 3.0
+},
+{
+"from": "2026-09-10T17:00:00Z",
+"viewers": 17.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-10T18:00:00Z",
+"viewers": 9.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-10T20:00:00Z",
+"viewers": 3.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-10T21:00:00Z",
+"viewers": 3.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-10T22:00:00Z",
+"viewers": 4.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-10T23:00:00Z",
+"viewers": 35.0,
+"channels": 3.0
+},
+{
+"from": "2026-09-11T00:00:00Z",
+"viewers": 124.0,
+"channels": 3.0
+},
+{
+"from": "2026-09-11T01:00:00Z",
+"viewers": 61.0,
+"channels": 3.0
+},
+{
+"from": "2026-09-11T02:00:00Z",
+"viewers": 7.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-11T03:00:00Z",
+"viewers": 6.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-11T04:00:00Z",
+"viewers": 3.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-11T05:00:00Z",
+"viewers": 1.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-11T06:00:00Z",
+"viewers": 2.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-11T07:00:00Z",
+"viewers": 1.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-11T08:00:00Z",
+"viewers": 1.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-11T09:00:00Z",
+"viewers": 2.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-11T10:00:00Z",
+"viewers": 2.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-11T11:00:00Z",
+"viewers": 2.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-11T12:00:00Z",
+"viewers": 2.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-11T13:00:00Z",
+"viewers": 2.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-11T14:00:00Z",
+"viewers": 3.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-11T15:00:00Z",
+"viewers": 2.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-11T16:00:00Z",
+"viewers": 5.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-11T17:00:00Z",
+"viewers": 4.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-11T18:00:00Z",
+"viewers": 9.0,
+"channels": 2.0
+},
+{
+"from": "2026-09-11T19:00:00Z",
+"viewers": 12.0,
+"channels": 3.0
+},
+{
+"from": "2026-09-11T20:00:00Z",
+"viewers": 12.0,
+"channels": 2.0
+},
+{
+"from": "2026-09-11T21:00:00Z",
+"viewers": 11.0,
+"channels": 2.0
+},
+{
+"from": "2026-09-11T22:00:00Z",
+"viewers": 13.0,
+"channels": 3.0
+},
+{
+"from": "2026-09-11T23:00:00Z",
+"viewers": 13.0,
+"channels": 3.0
+},
+{
+"from": "2026-09-12T00:00:00Z",
+"viewers": 11.0,
+"channels": 2.0
+},
+{
+"from": "2026-09-12T01:00:00Z",
+"viewers": 11.0,
+"channels": 2.0
+},
+{
+"from": "2026-09-12T02:00:00Z",
+"viewers": 6.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-12T03:00:00Z",
+"viewers": 1.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-12T04:00:00Z",
+"viewers": 1.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-12T05:00:00Z",
+"viewers": 4.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-12T06:00:00Z",
+"viewers": 13.0,
+"channels": 3.0
+},
+{
+"from": "2026-09-12T07:00:00Z",
+"viewers": 13.0,
+"channels": 3.0
+},
+{
+"from": "2026-09-12T08:00:00Z",
+"viewers": 7.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-12T09:00:00Z",
+"viewers": 6.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-12T10:00:00Z",
+"viewers": 6.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-12T11:00:00Z",
+"viewers": 5.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-12T12:00:00Z",
+"viewers": 2.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-12T13:00:00Z",
+"viewers": 2.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-12T14:00:00Z",
+"viewers": 7.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-12T15:00:00Z",
+"viewers": 39.0,
+"channels": 3.0
+},
+{
+"from": "2026-09-12T16:00:00Z",
+"viewers": 45.0,
+"channels": 3.0
+},
+{
+"from": "2026-09-12T17:00:00Z",
+"viewers": 36.0,
+"channels": 3.0
+},
+{
+"from": "2026-09-12T18:00:00Z",
+"viewers": 28.0,
+"channels": 2.0
+},
+{
+"from": "2026-09-12T19:00:00Z",
+"viewers": 31.0,
+"channels": 2.0
+},
+{
+"from": "2026-09-12T20:00:00Z",
+"viewers": 43.0,
+"channels": 3.0
+},
+{
+"from": "2026-09-12T21:00:00Z",
+"viewers": 49.0,
+"channels": 3.0
+},
+{
+"from": "2026-09-12T22:00:00Z",
+"viewers": 55.0,
+"channels": 4.0
+},
+{
+"from": "2026-09-12T23:00:00Z",
+"viewers": 61.0,
+"channels": 4.0
+},
+{
+"from": "2026-09-13T00:00:00Z",
+"viewers": 34.0,
+"channels": 3.0
+},
+{
+"from": "2026-09-13T01:00:00Z",
+"viewers": 6.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-13T02:00:00Z",
+"viewers": 9.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-13T03:00:00Z",
+"viewers": 26.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-13T04:00:00Z",
+"viewers": 8.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-13T05:00:00Z",
+"viewers": 20.0,
+"channels": 3.0
+},
+{
+"from": "2026-09-13T06:00:00Z",
+"viewers": 24.0,
+"channels": 3.0
+},
+{
+"from": "2026-09-13T07:00:00Z",
+"viewers": 19.0,
+"channels": 3.0
+},
+{
+"from": "2026-09-13T08:00:00Z",
+"viewers": 40.0,
+"channels": 2.0
+},
+{
+"from": "2026-09-13T09:00:00Z",
+"viewers": 29.0,
+"channels": 2.0
+},
+{
+"from": "2026-09-13T10:00:00Z",
+"viewers": 2.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-13T11:00:00Z",
+"viewers": 5.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-13T12:00:00Z",
+"viewers": 27.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-13T13:00:00Z",
+"viewers": 29.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-13T14:00:00Z",
+"viewers": 2.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-13T15:00:00Z",
+"viewers": 2.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-13T16:00:00Z",
+"viewers": 21.0,
+"channels": 2.0
+},
+{
+"from": "2026-09-13T17:00:00Z",
+"viewers": 25.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-13T18:00:00Z",
+"viewers": 6.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-13T19:00:00Z",
+"viewers": 20.0,
+"channels": 2.0
+},
+{
+"from": "2026-09-13T20:00:00Z",
+"viewers": 21.0,
+"channels": 3.0
+},
+{
+"from": "2026-09-13T21:00:00Z",
+"viewers": 17.0,
+"channels": 2.0
+},
+{
+"from": "2026-09-13T22:00:00Z",
+"viewers": 20.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-13T23:00:00Z",
+"viewers": 14.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-14T00:00:00Z",
+"viewers": 5.0,
+"channels": 1.0
+},
+{
+"from": "2026-09-14T01:00:00Z",
+"viewers": 20.0,
+"channels": 3.0
+},
+{
+"from": "2026-09-14T02:00:00Z",
+"viewers": 25.0,
+"channels": 4.0
+},
+{
+"from": "2026-09-14T03:00:00Z",
+"viewers": 45.0,
+"channels": 5.0
+},
+{
+"from": "2026-09-14T04:00:00Z",
+"viewers": 80.0,
+"channels": 6.0
+},
+{
+"from": "2026-09-14T05:00:00Z",
+"viewers": 97.0,
+"channels": 7.0
+},
+{
+"from": "2026-09-14T06:00:00Z",
+"viewers": 74.0,
+"channels": 6.0
+},
+{
+"from": "2026-09-14T07:00:00Z",
+"viewers": 83.0,
+"channels": 6.0
+},
+{
+"from": "2026-09-14T08:00:00Z",
+"viewers": 70.0,
+"channels": 4.0
+},
+{
+"from": "2026-09-14T09:00:00Z",
+"viewers": 102.0,
+"channels": 4.0
+},
+{
+"from": "2026-09-14T10:00:00Z",
+"viewers": 153.0,
+"channels": 5.0
+},
+{
+"from": "2026-09-14T11:00:00Z",
+"viewers": 4288.0,
+"channels": 12.0
+},
+{
+"from": "2026-09-14T12:00:00Z",
+"viewers": 14020.0,
+"channels": 51.0
+},
+{
+"from": "2026-09-14T13:00:00Z",
+"viewers": 20715.0,
+"channels": 73.0
+},
+{
+"from": "2026-09-14T14:00:00Z",
+"viewers": 29903.0,
+"channels": 166.0
+},
+{
+"from": "2026-09-14T15:00:00Z",
+"viewers": 30873.0,
+"channels": 182.0
+},
+{
+"from": "2026-09-14T16:00:00Z",
+"viewers": 37838.0,
+"channels": 185.0
+},
+{
+"from": "2026-09-14T17:00:00Z",
+"viewers": 37432.0,
+"channels": 185.0
+},
+{
+"from": "2026-09-14T18:00:00Z",
+"viewers": 41241.0,
+"channels": 199.0
+},
+{
+"from": "2026-09-14T19:00:00Z",
+"viewers": 65937.0,
+"channels": 245.0
+},
+{
+"from": "2026-09-14T20:00:00Z",
+"viewers": 66392.0,
+"channels": 236.0
+},
+{
+"from": "2026-09-14T21:00:00Z",
+"viewers": 61106.0,
+"channels": 332.0
+},
+{
+"from": "2026-09-14T22:00:00Z",
+"viewers": 56655.0,
+"channels": 552.0
+},
+{
+"from": "2026-09-14T23:00:00Z",
+"viewers": 41741.0,
+"channels": 701.0
+},
+{
+"from": "2026-09-15T00:00:00Z",
+"viewers": 23357.0,
+"channels": 619.0
+},
+{
+"from": "2026-09-15T01:00:00Z",
+"viewers": 19397.0,
+"channels": 453.0
+},
+{
+"from": "2026-09-15T02:00:00Z",
+"viewers": 20292.0,
+"channels": 377.0
+},
+{
+"from": "2026-09-15T03:00:00Z",
+"viewers": 18329.0,
+"channels": 587.0
+},
+{
+"from": "2026-09-15T04:00:00Z",
+"viewers": 35760.0,
+"channels": 3719.0
+},
+{
+"from": "2026-09-15T05:00:00Z",
+"viewers": 40523.0,
+"channels": 4410.0
+},
+{
+"from": "2026-09-15T06:00:00Z",
+"viewers": 38196.0,
+"channels": 3478.0
+},
+{
+"from": "2026-09-15T07:00:00Z",
+"viewers": 30468.0,
+"channels": 2622.0
+},
+{
+"from": "2026-09-15T08:00:00Z",
+"viewers": 37322.0,
+"channels": 2063.0
+},
+{
+"from": "2026-09-15T09:00:00Z",
+"viewers": 32884.0,
+"channels": 1656.0
+},
+{
+"from": "2026-09-15T10:00:00Z",
+"viewers": 36770.0,
+"channels": 1512.0
+},
+{
+"from": "2026-09-15T11:00:00Z",
+"viewers": 41223.0,
+"channels": 1502.0
+},
+{
+"from": "2026-09-15T12:00:00Z",
+"viewers": 45078.0,
+"channels": 1664.0
+},
+{
+"from": "2026-09-15T13:00:00Z",
+"viewers": 58758.0,
+"channels": 2051.0
+},
+{
+"from": "2026-09-15T14:00:00Z",
+"viewers": 78329.0,
+"channels": 2410.0
+},
+{
+"from": "2026-09-15T15:00:00Z",
+"viewers": 91382.0,
+"channels": 2414.0
+},
+{
+"from": "2026-09-15T16:00:00Z",
+"viewers": 133910.0,
+"channels": 2927.0
+},
+{
+"from": "2026-09-15T17:00:00Z",
+"viewers": 189396.0,
+"channels": 2849.0
+},
+{
+"from": "2026-09-15T18:00:00Z",
+"viewers": 175604.0,
+"channels": 2427.0
+},
+{
+"from": "2026-09-15T19:00:00Z",
+"viewers": 206982.0,
+"channels": 2206.0
+},
+{
+"from": "2026-09-15T20:00:00Z",
+"viewers": 212243.0,
+"channels": 2771.0
+},
+{
+"from": "2026-09-15T21:00:00Z",
+"viewers": 196416.0,
+"channels": 3246.0
+},
+{
+"from": "2026-09-15T22:00:00Z",
+"viewers": 153926.0,
+"channels": 3257.0
+},
+{
+"from": "2026-09-15T23:00:00Z",
+"viewers": 147358.0,
+"channels": 3327.0
+},
+{
+"from": "2026-09-16T00:00:00Z",
+"viewers": 124122.0,
+"channels": 2965.0
+},
+{
+"from": "2026-09-16T01:00:00Z",
+"viewers": 107151.0,
+"channels": 2738.0
+},
+{
+"from": "2026-09-16T02:00:00Z",
+"viewers": 86501.0,
+"channels": 2799.0
+},
+{
+"from": "2026-09-16T03:00:00Z",
+"viewers": 55103.0,
+"channels": 2932.0
+},
+{
+"from": "2026-09-16T04:00:00Z",
+"viewers": 69141.0,
+"channels": 2683.0
+},
+{
+"from": "2026-09-16T05:00:00Z",
+"viewers": 66955.0,
+"channels": 2550.0
+},
+{
+"from": "2026-09-16T06:00:00Z",
+"viewers": 61643.0,
+"channels": 1938.0
+},
+{
+"from": "2026-09-16T07:00:00Z",
+"viewers": 51117.0,
+"channels": 1508.0
+},
+{
+"from": "2026-09-16T08:00:00Z",
+"viewers": 25662.0,
+"channels": 1223.0
+},
+{
+"from": "2026-09-16T09:00:00Z",
+"viewers": 21596.0,
+"channels": 1056.0
+},
+{
+"from": "2026-09-16T10:00:00Z",
+"viewers": 21799.0,
+"channels": 1010.0
+},
+{
+"from": "2026-09-16T11:00:00Z",
+"viewers": 19572.0,
+"channels": 986.0
+},
+{
+"from": "2026-09-16T12:00:00Z",
+"viewers": 21313.0,
+"channels": 1107.0
+},
+{
+"from": "2026-09-16T13:00:00Z",
+"viewers": 24822.0,
+"channels": 1286.0
+},
+{
+"from": "2026-09-16T14:00:00Z",
+"viewers": 34016.0,
+"channels": 1530.0
+},
+{
+"from": "2026-09-16T15:00:00Z",
+"viewers": 46649.0,
+"channels": 1742.0
+},
+{
+"from": "2026-09-16T16:00:00Z",
+"viewers": 46599.0,
+"channels": 2107.0
+},
+{
+"from": "2026-09-16T17:00:00Z",
+"viewers": 54747.0,
+"channels": 2102.0
+},
+{
+"from": "2026-09-16T18:00:00Z",
+"viewers": 72685.0,
+"channels": 1826.0
+},
+{
+"from": "2026-09-16T19:00:00Z",
+"viewers": 106324.0,
+"channels": 1708.0
+},
+{
+"from": "2026-09-16T20:00:00Z",
+"viewers": 111710.0,
+"channels": 1489.0
+},
+{
+"from": "2026-09-16T21:00:00Z",
+"viewers": 89616.0,
+"channels": 1830.0
+},
+{
+"from": "2026-09-16T22:00:00Z",
+"viewers": 57166.0,
+"channels": 1803.0
+},
+{
+"from": "2026-09-16T23:00:00Z",
+"viewers": 51926.0,
+"channels": 2292.0
+},
+{
+"from": "2026-09-17T00:00:00Z",
+"viewers": 40157.0,
+"channels": 2238.0
+},
+{
+"from": "2026-09-17T01:00:00Z",
+"viewers": 31243.0,
+"channels": 2429.0
+},
+{
+"from": "2026-09-17T02:00:00Z",
+"viewers": 31849.0,
+"channels": 2195.0
+},
+{
+"from": "2026-09-17T03:00:00Z",
+"viewers": 32606.0,
+"channels": 2178.0
+},
+{
+"from": "2026-09-17T04:00:00Z",
+"viewers": 40802.0,
+"channels": 2014.0
+},
+{
+"from": "2026-09-17T05:00:00Z",
+"viewers": 34600.0,
+"channels": 1721.0
+},
+{
+"from": "2026-09-17T06:00:00Z",
+"viewers": 25663.0,
+"channels": 1357.0
+},
+{
+"from": "2026-09-17T07:00:00Z",
+"viewers": 17673.0,
+"channels": 1037.0
+},
+{
+"from": "2026-09-17T08:00:00Z",
+"viewers": 17821.0,
+"channels": 846.0
+},
+{
+"from": "2026-09-17T09:00:00Z",
+"viewers": 16095.0,
+"channels": 719.0
+},
+{
+"from": "2026-09-17T10:00:00Z",
+"viewers": 10191.0,
+"channels": 659.0
+},
+{
+"from": "2026-09-17T11:00:00Z",
+"viewers": 7717.0,
+"channels": 649.0
+},
+{
+"from": "2026-09-17T12:00:00Z",
+"viewers": 8288.0,
+"channels": 715.0
+},
+{
+"from": "2026-09-17T13:00:00Z",
+"viewers": 8726.0,
+"channels": 893.0
+},
+{
+"from": "2026-09-17T14:00:00Z",
+"viewers": 12632.0,
+"channels": 1109.0
+},
+{
+"from": "2026-09-17T15:00:00Z",
+"viewers": 16010.0,
+"channels": 1165.0
+},
+{
+"from": "2026-09-17T16:00:00Z",
+"viewers": 16912.0,
+"channels": 1182.0
+},
+{
+"from": "2026-09-17T17:00:00Z",
+"viewers": 17663.0,
+"channels": 880.0
+},
+{
+"from": "2026-09-17T18:00:00Z",
+"viewers": 15819.0,
+"channels": 1042.0
+},
+{
+"from": "2026-09-17T19:00:00Z",
+"viewers": 18375.0,
+"channels": 1083.0
+},
+{
+"from": "2026-09-17T20:00:00Z",
+"viewers": 20146.0,
+"channels": 1371.0
+},
+{
+"from": "2026-09-17T21:00:00Z",
+"viewers": 17340.0,
+"channels": 1166.0
+},
+{
+"from": "2026-09-17T22:00:00Z",
+"viewers": 14144.0,
+"channels": 1124.0
+},
+{
+"from": "2026-09-17T23:00:00Z",
+"viewers": 13748.0,
+"channels": 1230.0
+}
+]
+},
+"Red Dead Redemption 2": {
+"day_start": "2018-10-26T00:00:00Z",
+"hourly": [
+{
+"from": "2018-10-12T05:00:00Z",
+"viewers": 5.0,
+"channels": 1.0
+},
+{
+"from": "2018-10-12T06:00:00Z",
+"viewers": 3.0,
+"channels": 1.0
+},
+{
+"from": "2018-10-12T07:00:00Z",
+"viewers": 5.0,
+"channels": 1.0
+},
+{
+"from": "2018-10-12T08:00:00Z",
+"viewers": 2.0,
+"channels": 1.0
+},
+{
+"from": "2018-10-12T09:00:00Z",
+"viewers": 1.0,
+"channels": 1.0
+},
+{
+"from": "2018-10-12T10:00:00Z",
+"viewers": 5.0,
+"channels": 1.0
+},
+{
+"from": "2018-10-12T11:00:00Z",
+"viewers": 8.0,
+"channels": 1.0
+},
+{
+"from": "2018-10-12T12:00:00Z",
+"viewers": 8.0,
+"channels": 2.0
+},
+{
+"from": "2018-10-12T13:00:00Z",
+"viewers": 5.0,
+"channels": 1.0
+},
+{
+"from": "2018-10-12T14:00:00Z",
+"viewers": 4.0,
+"channels": 1.0
+},
+{
+"from": "2018-10-12T15:00:00Z",
+"viewers": 9.0,
+"channels": 1.0
+},
+{
+"from": "2018-10-12T16:00:00Z",
+"viewers": 8.0,
+"channels": 1.0
+},
+{
+"from": "2018-10-12T17:00:00Z",
+"viewers": 8.0,
+"channels": 1.0
+},
+{
+"from": "2018-10-12T18:00:00Z",
+"viewers": 7.0,
+"channels": 1.0
+},
+{
+"from": "2018-10-12T19:00:00Z",
+"viewers": 19.0,
+"channels": 1.0
+},
+{
+"from": "2018-10-12T20:00:00Z",
+"viewers": 14.0,
+"channels": 1.0
+},
+{
+"from": "2018-10-12T21:00:00Z",
+"viewers": 17.0,
+"channels": 1.0
+},
+{
+"from": "2018-10-12T22:00:00Z",
+"viewers": 12.0,
+"channels": 1.0
+},
+{
+"from": "2018-10-12T23:00:00Z",
+"viewers": 3.0,
+"channels": 1.0
+},
+{
+"from": "2018-10-13T00:00:00Z",
+"viewers": 1.0,
+"channels": 1.0
+},
+{
+"from": "2018-10-13T01:00:00Z",
+"viewers": 6.0,
+"channels": 1.0
+},
+{
+"from": "2018-10-13T02:00:00Z",
+"viewers": 3.0,
+"channels": 1.0
+},
+{
+"from": "2018-10-13T03:00:00Z",
+"viewers": 2.0,
+"channels": 1.0
+},
+{
+"from": "2018-10-13T04:00:00Z",
+"viewers": 3.0,
+"channels": 1.0
+},
+{
+"from": "2018-10-13T05:00:00Z",
+"viewers": 1.0,
+"channels": 1.0
+},
+{
+"from": "2018-10-13T06:00:00Z",
+"viewers": 4.0,
+"channels": 1.0
+},
+{
+"from": "2018-10-13T07:00:00Z",
+"viewers": 3.0,
+"channels": 1.0
+},
+{
+"from": "2018-10-13T10:00:00Z",
+"viewers": 2.0,
+"channels": 1.0
+},
+{
+"from": "2018-10-13T11:00:00Z",
+"viewers": 5.0,
+"channels": 1.0
+},
+{
+"from": "2018-10-13T12:00:00Z",
+"viewers": 7.0,
+"channels": 1.0
+},
+{
+"from": "2018-10-13T13:00:00Z",
+"viewers": 14.0,
+"channels": 2.0
+},
+{
+"from": "2018-10-13T14:00:00Z",
+"viewers": 17.0,
+"channels": 3.0
+},
+{
+"from": "2018-10-13T15:00:00Z",
+"viewers": 13.0,
+"channels": 3.0
+},
+{
+"from": "2018-10-13T16:00:00Z",
+"viewers": 12.0,
+"channels": 3.0
+},
+{
+"from": "2018-10-13T17:00:00Z",
+"viewers": 9.0,
+"channels": 2.0
+},
+{
+"from": "2018-10-13T18:00:00Z",
+"viewers": 8.0,
+"channels": 1.0
+},
+{
+"from": "2018-10-13T19:00:00Z",
+"viewers": 6.0,
+"channels": 1.0
+},
+{
+"from": "2018-10-13T20:00:00Z",
+"viewers": 40.0,
+"channels": 1.0
+},
+{
+"from": "2018-10-13T21:00:00Z",
+"viewers": 6.0,
+"channels": 1.0
+},
+{
+"from": "2018-10-13T22:00:00Z",
+"viewers": 3.0,
+"channels": 1.0
+},
+{
+"from": "2018-10-13T23:00:00Z",
+"viewers": 17.0,
+"channels": 1.0
+},
+{
+"from": "2018-10-14T00:00:00Z",
+"viewers": 31.0,
+"channels": 1.0
+},
+{
+"from": "2018-10-14T01:00:00Z",
+"viewers": 25.0,
+"channels": 1.0
+},
+{
+"from": "2018-10-14T02:00:00Z",
+"viewers": 15.0,
+"channels": 1.0
+},
+{
+"from": "2018-10-14T03:00:00Z",
+"viewers": 16.0,
+"channels": 2.0
+},
+{
+"from": "2018-10-14T04:00:00Z",
+"viewers": 15.0,
+"channels": 2.0
+},
+{
+"from": "2018-10-14T05:00:00Z",
+"viewers": 9.0,
+"channels": 2.0
+},
+{
+"from": "2018-10-14T06:00:00Z",
+"viewers": 7.0,
+"channels": 3.0
+},
+{
+"from": "2018-10-14T07:00:00Z",
+"viewers": 5.0,
+"channels": 2.0
+},
+{
+"from": "2018-10-14T08:00:00Z",
+"viewers": 4.0,
+"channels": 2.0
+},
+{
+"from": "2018-10-14T09:00:00Z",
+"viewers": 8.0,
+"channels": 2.0
+},
+{
+"from": "2018-10-14T10:00:00Z",
+"viewers": 7.0,
+"channels": 2.0
+},
+{
+"from": "2018-10-14T11:00:00Z",
+"viewers": 7.0,
+"channels": 3.0
+},
+{
+"from": "2018-10-14T12:00:00Z",
+"viewers": 7.0,
+"channels": 3.0
+},
+{
+"from": "2018-10-14T13:00:00Z",
+"viewers": 12.0,
+"channels": 3.0
+},
+{
+"from": "2018-10-14T14:00:00Z",
+"viewers": 9.0,
+"channels": 3.0
+},
+{
+"from": "2018-10-14T15:00:00Z",
+"viewers": 14.0,
+"channels": 3.0
+},
+{
+"from": "2018-10-14T16:00:00Z",
+"viewers": 11.0,
+"channels": 2.0
+},
+{
+"from": "2018-10-14T17:00:00Z",
+"viewers": 12.0,
+"channels": 2.0
+},
+{
+"from": "2018-10-14T18:00:00Z",
+"viewers": 14.0,
+"channels": 2.0
+},
+{
+"from": "2018-10-14T19:00:00Z",
+"viewers": 10.0,
+"channels": 2.0
+},
+{
+"from": "2018-10-14T20:00:00Z",
+"viewers": 11.0,
+"channels": 2.0
+},
+{
+"from": "2018-10-14T21:00:00Z",
+"viewers": 4.0,
+"channels": 3.0
+},
+{
+"from": "2018-10-14T22:00:00Z",
+"viewers": 5.0,
+"channels": 2.0
+},
+{
+"from": "2018-10-14T23:00:00Z",
+"viewers": 8.0,
+"channels": 2.0
+},
+{
+"from": "2018-10-15T00:00:00Z",
+"viewers": 5.0,
+"channels": 1.0
+},
+{
+"from": "2018-10-15T01:00:00Z",
+"viewers": 6.0,
+"channels": 1.0
+},
+{
+"from": "2018-10-15T02:00:00Z",
+"viewers": 4.0,
+"channels": 1.0
+},
+{
+"from": "2018-10-15T03:00:00Z",
+"viewers": 5.0,
+"channels": 1.0
+},
+{
+"from": "2018-10-15T04:00:00Z",
+"viewers": 4.0,
+"channels": 1.0
+},
+{
+"from": "2018-10-15T05:00:00Z",
+"viewers": 5.0,
+"channels": 1.0
+},
+{
+"from": "2018-10-15T06:00:00Z",
+"viewers": 8.0,
+"channels": 1.0
+},
+{
+"from": "2018-10-15T07:00:00Z",
+"viewers": 7.0,
+"channels": 1.0
+},
+{
+"from": "2018-10-15T08:00:00Z",
+"viewers": 7.0,
+"channels": 1.0
+},
+{
+"from": "2018-10-15T09:00:00Z",
+"viewers": 7.0,
+"channels": 1.0
+},
+{
+"from": "2018-10-15T10:00:00Z",
+"viewers": 9.0,
+"channels": 1.0
+},
+{
+"from": "2018-10-15T11:00:00Z",
+"viewers": 7.0,
+"channels": 2.0
+},
+{
+"from": "2018-10-15T12:00:00Z",
+"viewers": 6.0,
+"channels": 2.0
+},
+{
+"from": "2018-10-15T13:00:00Z",
+"viewers": 6.0,
+"channels": 2.0
+},
+{
+"from": "2018-10-15T14:00:00Z",
+"viewers": 14.0,
+"channels": 3.0
+},
+{
+"from": "2018-10-15T15:00:00Z",
+"viewers": 13.0,
+"channels": 3.0
+},
+{
+"from": "2018-10-15T16:00:00Z",
+"viewers": 11.0,
+"channels": 2.0
+},
+{
+"from": "2018-10-15T17:00:00Z",
+"viewers": 8.0,
+"channels": 1.0
+},
+{
+"from": "2018-10-15T18:00:00Z",
+"viewers": 7.0,
+"channels": 2.0
+},
+{
+"from": "2018-10-15T19:00:00Z",
+"viewers": 10.0,
+"channels": 2.0
+},
+{
+"from": "2018-10-15T20:00:00Z",
+"viewers": 16.0,
+"channels": 2.0
+},
+{
+"from": "2018-10-15T21:00:00Z",
+"viewers": 7.0,
+"channels": 2.0
+},
+{
+"from": "2018-10-15T22:00:00Z",
+"viewers": 7.0,
+"channels": 3.0
+},
+{
+"from": "2018-10-15T23:00:00Z",
+"viewers": 11.0,
+"channels": 2.0
+},
+{
+"from": "2018-10-16T00:00:00Z",
+"viewers": 14.0,
+"channels": 2.0
+},
+{
+"from": "2018-10-16T01:00:00Z",
+"viewers": 5.0,
+"channels": 2.0
+},
+{
+"from": "2018-10-16T02:00:00Z",
+"viewers": 10.0,
+"channels": 3.0
+},
+{
+"from": "2018-10-16T03:00:00Z",
+"viewers": 6.0,
+"channels": 1.0
+},
+{
+"from": "2018-10-16T04:00:00Z",
+"viewers": 5.0,
+"channels": 2.0
+},
+{
+"from": "2018-10-16T05:00:00Z",
+"viewers": 8.0,
+"channels": 2.0
+},
+{
+"from": "2018-10-16T06:00:00Z",
+"viewers": 10.0,
+"channels": 3.0
+},
+{
+"from": "2018-10-16T07:00:00Z",
+"viewers": 4.0,
+"channels": 2.0
+},
+{
+"from": "2018-10-16T08:00:00Z",
+"viewers": 3.0,
+"channels": 1.0
+},
+{
+"from": "2018-10-16T09:00:00Z",
+"viewers": 4.0,
+"channels": 2.0
+},
+{
+"from": "2018-10-16T10:00:00Z",
+"viewers": 7.0,
+"channels": 3.0
+},
+{
+"from": "2018-10-16T11:00:00Z",
+"viewers": 4.0,
+"channels": 3.0
+},
+{
+"from": "2018-10-16T12:00:00Z",
+"viewers": 3.0,
+"channels": 3.0
+},
+{
+"from": "2018-10-16T13:00:00Z",
+"viewers": 2.0,
+"channels": 3.0
+},
+{
+"from": "2018-10-16T14:00:00Z",
+"viewers": 6.0,
+"channels": 3.0
+},
+{
+"from": "2018-10-16T15:00:00Z",
+"viewers": 6.0,
+"channels": 3.0
+},
+{
+"from": "2018-10-16T16:00:00Z",
+"viewers": 9.0,
+"channels": 3.0
+},
+{
+"from": "2018-10-16T17:00:00Z",
+"viewers": 13.0,
+"channels": 3.0
+},
+{
+"from": "2018-10-16T18:00:00Z",
+"viewers": 14.0,
+"channels": 3.0
+},
+{
+"from": "2018-10-16T19:00:00Z",
+"viewers": 13.0,
+"channels": 4.0
+},
+{
+"from": "2018-10-16T20:00:00Z",
+"viewers": 15.0,
+"channels": 4.0
+},
+{
+"from": "2018-10-16T21:00:00Z",
+"viewers": 15.0,
+"channels": 5.0
+},
+{
+"from": "2018-10-16T22:00:00Z",
+"viewers": 15.0,
+"channels": 5.0
+},
+{
+"from": "2018-10-16T23:00:00Z",
+"viewers": 11.0,
+"channels": 5.0
+},
+{
+"from": "2018-10-17T00:00:00Z",
+"viewers": 11.0,
+"channels": 4.0
+},
+{
+"from": "2018-10-17T01:00:00Z",
+"viewers": 16.0,
+"channels": 4.0
+},
+{
+"from": "2018-10-17T02:00:00Z",
+"viewers": 14.0,
+"channels": 4.0
+},
+{
+"from": "2018-10-17T03:00:00Z",
+"viewers": 6.0,
+"channels": 3.0
+},
+{
+"from": "2018-10-17T04:00:00Z",
+"viewers": 7.0,
+"channels": 3.0
+},
+{
+"from": "2018-10-17T05:00:00Z",
+"viewers": 15.0,
+"channels": 3.0
+},
+{
+"from": "2018-10-17T06:00:00Z",
+"viewers": 11.0,
+"channels": 3.0
+},
+{
+"from": "2018-10-17T07:00:00Z",
+"viewers": 7.0,
+"channels": 2.0
+},
+{
+"from": "2018-10-17T08:00:00Z",
+"viewers": 10.0,
+"channels": 3.0
+},
+{
+"from": "2018-10-17T09:00:00Z",
+"viewers": 25.0,
+"channels": 3.0
+},
+{
+"from": "2018-10-17T10:00:00Z",
+"viewers": 6.0,
+"channels": 3.0
+},
+{
+"from": "2018-10-17T11:00:00Z",
+"viewers": 5.0,
+"channels": 3.0
+},
+{
+"from": "2018-10-17T12:00:00Z",
+"viewers": 3.0,
+"channels": 3.0
+},
+{
+"from": "2018-10-17T13:00:00Z",
+"viewers": 7.0,
+"channels": 3.0
+},
+{
+"from": "2018-10-17T14:00:00Z",
+"viewers": 12.0,
+"channels": 3.0
+},
+{
+"from": "2018-10-17T15:00:00Z",
+"viewers": 10.0,
+"channels": 3.0
+},
+{
+"from": "2018-10-17T16:00:00Z",
+"viewers": 10.0,
+"channels": 3.0
+},
+{
+"from": "2018-10-17T17:00:00Z",
+"viewers": 9.0,
+"channels": 3.0
+},
+{
+"from": "2018-10-17T18:00:00Z",
+"viewers": 10.0,
+"channels": 3.0
+},
+{
+"from": "2018-10-17T19:00:00Z",
+"viewers": 18.0,
+"channels": 3.0
+},
+{
+"from": "2018-10-17T20:00:00Z",
+"viewers": 26.0,
+"channels": 3.0
+},
+{
+"from": "2018-10-17T21:00:00Z",
+"viewers": 24.0,
+"channels": 3.0
+},
+{
+"from": "2018-10-17T22:00:00Z",
+"viewers": 19.0,
+"channels": 3.0
+},
+{
+"from": "2018-10-17T23:00:00Z",
+"viewers": 6.0,
+"channels": 2.0
+},
+{
+"from": "2018-10-18T00:00:00Z",
+"viewers": 8.0,
+"channels": 2.0
+},
+{
+"from": "2018-10-18T01:00:00Z",
+"viewers": 4.0,
+"channels": 3.0
+},
+{
+"from": "2018-10-18T02:00:00Z",
+"viewers": 4.0,
+"channels": 3.0
+},
+{
+"from": "2018-10-18T03:00:00Z",
+"viewers": 3.0,
+"channels": 3.0
+},
+{
+"from": "2018-10-18T04:00:00Z",
+"viewers": 2.0,
+"channels": 2.0
+},
+{
+"from": "2018-10-18T05:00:00Z",
+"viewers": 11.0,
+"channels": 3.0
+},
+{
+"from": "2018-10-18T06:00:00Z",
+"viewers": 14.0,
+"channels": 3.0
+},
+{
+"from": "2018-10-18T07:00:00Z",
+"viewers": 7.0,
+"channels": 2.0
+},
+{
+"from": "2018-10-18T08:00:00Z",
+"viewers": 6.0,
+"channels": 2.0
+},
+{
+"from": "2018-10-18T09:00:00Z",
+"viewers": 2.0,
+"channels": 1.0
+},
+{
+"from": "2018-10-18T10:00:00Z",
+"viewers": 30.0,
+"channels": 1.0
+},
+{
+"from": "2018-10-18T11:00:00Z",
+"viewers": 48.0,
+"channels": 1.0
+},
+{
+"from": "2018-10-18T12:00:00Z",
+"viewers": 26.0,
+"channels": 1.0
+},
+{
+"from": "2018-10-18T13:00:00Z",
+"viewers": 136.0,
+"channels": 3.0
+},
+{
+"from": "2018-10-18T14:00:00Z",
+"viewers": 103.0,
+"channels": 3.0
+},
+{
+"from": "2018-10-18T15:00:00Z",
+"viewers": 18.0,
+"channels": 4.0
+},
+{
+"from": "2018-10-18T16:00:00Z",
+"viewers": 14.0,
+"channels": 1.0
+},
+{
+"from": "2018-10-18T17:00:00Z",
+"viewers": 16.0,
+"channels": 1.0
+},
+{
+"from": "2018-10-18T18:00:00Z",
+"viewers": 15.0,
+"channels": 1.0
+},
+{
+"from": "2018-10-18T19:00:00Z",
+"viewers": 16.0,
+"channels": 1.0
+},
+{
+"from": "2018-10-18T20:00:00Z",
+"viewers": 13.0,
+"channels": 1.0
+},
+{
+"from": "2018-10-18T21:00:00Z",
+"viewers": 11.0,
+"channels": 1.0
+},
+{
+"from": "2018-10-18T22:00:00Z",
+"viewers": 6.0,
+"channels": 1.0
+},
+{
+"from": "2018-10-18T23:00:00Z",
+"viewers": 16.0,
+"channels": 1.0
+},
+{
+"from": "2018-10-19T00:00:00Z",
+"viewers": 12.0,
+"channels": 2.0
+},
+{
+"from": "2018-10-19T01:00:00Z",
+"viewers": 15.0,
+"channels": 2.0
+},
+{
+"from": "2018-10-19T02:00:00Z",
+"viewers": 13.0,
+"channels": 2.0
+},
+{
+"from": "2018-10-19T03:00:00Z",
+"viewers": 11.0,
+"channels": 2.0
+},
+{
+"from": "2018-10-19T04:00:00Z",
+"viewers": 12.0,
+"channels": 2.0
+},
+{
+"from": "2018-10-19T05:00:00Z",
+"viewers": 34.0,
+"channels": 2.0
+},
+{
+"from": "2018-10-19T06:00:00Z",
+"viewers": 17.0,
+"channels": 2.0
+},
+{
+"from": "2018-10-19T07:00:00Z",
+"viewers": 21.0,
+"channels": 2.0
+},
+{
+"from": "2018-10-19T08:00:00Z",
+"viewers": 20.0,
+"channels": 2.0
+},
+{
+"from": "2018-10-19T09:00:00Z",
+"viewers": 18.0,
+"channels": 2.0
+},
+{
+"from": "2018-10-19T10:00:00Z",
+"viewers": 18.0,
+"channels": 3.0
+},
+{
+"from": "2018-10-19T11:00:00Z",
+"viewers": 15.0,
+"channels": 2.0
+},
+{
+"from": "2018-10-19T12:00:00Z",
+"viewers": 31.0,
+"channels": 3.0
+},
+{
+"from": "2018-10-19T13:00:00Z",
+"viewers": 21.0,
+"channels": 3.0
+},
+{
+"from": "2018-10-19T14:00:00Z",
+"viewers": 24.0,
+"channels": 2.0
+},
+{
+"from": "2018-10-19T15:00:00Z",
+"viewers": 29.0,
+"channels": 2.0
+},
+{
+"from": "2018-10-19T16:00:00Z",
+"viewers": 25.0,
+"channels": 2.0
+},
+{
+"from": "2018-10-19T17:00:00Z",
+"viewers": 31.0,
+"channels": 2.0
+},
+{
+"from": "2018-10-19T18:00:00Z",
+"viewers": 26.0,
+"channels": 2.0
+},
+{
+"from": "2018-10-19T19:00:00Z",
+"viewers": 37.0,
+"channels": 2.0
+},
+{
+"from": "2018-10-19T20:00:00Z",
+"viewers": 28.0,
+"channels": 3.0
+},
+{
+"from": "2018-10-19T21:00:00Z",
+"viewers": 54.0,
+"channels": 3.0
+},
+{
+"from": "2018-10-19T22:00:00Z",
+"viewers": 27.0,
+"channels": 2.0
+},
+{
+"from": "2018-10-19T23:00:00Z",
+"viewers": 30.0,
+"channels": 3.0
+},
+{
+"from": "2018-10-20T00:00:00Z",
+"viewers": 26.0,
+"channels": 3.0
+},
+{
+"from": "2018-10-20T01:00:00Z",
+"viewers": 23.0,
+"channels": 3.0
+},
+{
+"from": "2018-10-20T02:00:00Z",
+"viewers": 14.0,
+"channels": 2.0
+},
+{
+"from": "2018-10-20T03:00:00Z",
+"viewers": 16.0,
+"channels": 3.0
+},
+{
+"from": "2018-10-20T04:00:00Z",
+"viewers": 19.0,
+"channels": 4.0
+},
+{
+"from": "2018-10-20T05:00:00Z",
+"viewers": 18.0,
+"channels": 3.0
+},
+{
+"from": "2018-10-20T06:00:00Z",
+"viewers": 22.0,
+"channels": 4.0
+},
+{
+"from": "2018-10-20T07:00:00Z",
+"viewers": 21.0,
+"channels": 4.0
+},
+{
+"from": "2018-10-20T08:00:00Z",
+"viewers": 16.0,
+"channels": 4.0
+},
+{
+"from": "2018-10-20T09:00:00Z",
+"viewers": 12.0,
+"channels": 3.0
+},
+{
+"from": "2018-10-20T10:00:00Z",
+"viewers": 24.0,
+"channels": 4.0
+},
+{
+"from": "2018-10-20T11:00:00Z",
+"viewers": 26.0,
+"channels": 4.0
+},
+{
+"from": "2018-10-20T12:00:00Z",
+"viewers": 46.0,
+"channels": 5.0
+},
+{
+"from": "2018-10-20T13:00:00Z",
+"viewers": 26.0,
+"channels": 4.0
+},
+{
+"from": "2018-10-20T14:00:00Z",
+"viewers": 55.0,
+"channels": 4.0
+},
+{
+"from": "2018-10-20T15:00:00Z",
+"viewers": 80.0,
+"channels": 5.0
+},
+{
+"from": "2018-10-20T16:00:00Z",
+"viewers": 97.0,
+"channels": 6.0
+},
+{
+"from": "2018-10-20T17:00:00Z",
+"viewers": 108.0,
+"channels": 8.0
+},
+{
+"from": "2018-10-20T18:00:00Z",
+"viewers": 92.0,
+"channels": 7.0
+},
+{
+"from": "2018-10-20T19:00:00Z",
+"viewers": 98.0,
+"channels": 6.0
+},
+{
+"from": "2018-10-20T20:00:00Z",
+"viewers": 99.0,
+"channels": 6.0
+},
+{
+"from": "2018-10-20T21:00:00Z",
+"viewers": 80.0,
+"channels": 5.0
+},
+{
+"from": "2018-10-20T22:00:00Z",
+"viewers": 92.0,
+"channels": 7.0
+},
+{
+"from": "2018-10-20T23:00:00Z",
+"viewers": 89.0,
+"channels": 7.0
+},
+{
+"from": "2018-10-21T00:00:00Z",
+"viewers": 102.0,
+"channels": 6.0
+},
+{
+"from": "2018-10-21T01:00:00Z",
+"viewers": 88.0,
+"channels": 6.0
+},
+{
+"from": "2018-10-21T02:00:00Z",
+"viewers": 79.0,
+"channels": 6.0
+},
+{
+"from": "2018-10-21T03:00:00Z",
+"viewers": 93.0,
+"channels": 7.0
+},
+{
+"from": "2018-10-21T04:00:00Z",
+"viewers": 93.0,
+"channels": 8.0
+},
+{
+"from": "2018-10-21T05:00:00Z",
+"viewers": 91.0,
+"channels": 8.0
+},
+{
+"from": "2018-10-21T06:00:00Z",
+"viewers": 82.0,
+"channels": 8.0
+},
+{
+"from": "2018-10-21T07:00:00Z",
+"viewers": 81.0,
+"channels": 6.0
+},
+{
+"from": "2018-10-21T08:00:00Z",
+"viewers": 88.0,
+"channels": 6.0
+},
+{
+"from": "2018-10-21T09:00:00Z",
+"viewers": 93.0,
+"channels": 7.0
+},
+{
+"from": "2018-10-21T10:00:00Z",
+"viewers": 112.0,
+"channels": 7.0
+},
+{
+"from": "2018-10-21T11:00:00Z",
+"viewers": 98.0,
+"channels": 7.0
+},
+{
+"from": "2018-10-21T12:00:00Z",
+"viewers": 107.0,
+"channels": 8.0
+},
+{
+"from": "2018-10-21T13:00:00Z",
+"viewers": 105.0,
+"channels": 9.0
+},
+{
+"from": "2018-10-21T14:00:00Z",
+"viewers": 98.0,
+"channels": 8.0
+},
+{
+"from": "2018-10-21T15:00:00Z",
+"viewers": 112.0,
+"channels": 8.0
+},
+{
+"from": "2018-10-21T16:00:00Z",
+"viewers": 97.0,
+"channels": 8.0
+},
+{
+"from": "2018-10-21T17:00:00Z",
+"viewers": 103.0,
+"channels": 8.0
+},
+{
+"from": "2018-10-21T18:00:00Z",
+"viewers": 99.0,
+"channels": 8.0
+},
+{
+"from": "2018-10-21T19:00:00Z",
+"viewers": 106.0,
+"channels": 8.0
+},
+{
+"from": "2018-10-21T20:00:00Z",
+"viewers": 126.0,
+"channels": 7.0
+},
+{
+"from": "2018-10-21T21:00:00Z",
+"viewers": 117.0,
+"channels": 7.0
+},
+{
+"from": "2018-10-21T22:00:00Z",
+"viewers": 99.0,
+"channels": 8.0
+},
+{
+"from": "2018-10-21T23:00:00Z",
+"viewers": 98.0,
+"channels": 8.0
+},
+{
+"from": "2018-10-22T00:00:00Z",
+"viewers": 87.0,
+"channels": 8.0
+},
+{
+"from": "2018-10-22T01:00:00Z",
+"viewers": 102.0,
+"channels": 9.0
+},
+{
+"from": "2018-10-22T02:00:00Z",
+"viewers": 126.0,
+"channels": 9.0
+},
+{
+"from": "2018-10-22T03:00:00Z",
+"viewers": 113.0,
+"channels": 8.0
+},
+{
+"from": "2018-10-22T04:00:00Z",
+"viewers": 109.0,
+"channels": 8.0
+},
+{
+"from": "2018-10-22T05:00:00Z",
+"viewers": 91.0,
+"channels": 7.0
+},
+{
+"from": "2018-10-22T06:00:00Z",
+"viewers": 82.0,
+"channels": 6.0
+},
+{
+"from": "2018-10-22T07:00:00Z",
+"viewers": 77.0,
+"channels": 4.0
+},
+{
+"from": "2018-10-22T08:00:00Z",
+"viewers": 91.0,
+"channels": 3.0
+},
+{
+"from": "2018-10-22T09:00:00Z",
+"viewers": 103.0,
+"channels": 4.0
+},
+{
+"from": "2018-10-22T10:00:00Z",
+"viewers": 96.0,
+"channels": 4.0
+},
+{
+"from": "2018-10-22T11:00:00Z",
+"viewers": 124.0,
+"channels": 7.0
+},
+{
+"from": "2018-10-22T12:00:00Z",
+"viewers": 139.0,
+"channels": 10.0
+},
+{
+"from": "2018-10-22T13:00:00Z",
+"viewers": 145.0,
+"channels": 9.0
+},
+{
+"from": "2018-10-22T14:00:00Z",
+"viewers": 153.0,
+"channels": 7.0
+},
+{
+"from": "2018-10-22T15:00:00Z",
+"viewers": 139.0,
+"channels": 7.0
+},
+{
+"from": "2018-10-22T16:00:00Z",
+"viewers": 120.0,
+"channels": 8.0
+},
+{
+"from": "2018-10-22T17:00:00Z",
+"viewers": 137.0,
+"channels": 10.0
+},
+{
+"from": "2018-10-22T18:00:00Z",
+"viewers": 142.0,
+"channels": 7.0
+},
+{
+"from": "2018-10-22T19:00:00Z",
+"viewers": 146.0,
+"channels": 9.0
+},
+{
+"from": "2018-10-22T20:00:00Z",
+"viewers": 134.0,
+"channels": 7.0
+},
+{
+"from": "2018-10-22T21:00:00Z",
+"viewers": 136.0,
+"channels": 6.0
+},
+{
+"from": "2018-10-22T22:00:00Z",
+"viewers": 146.0,
+"channels": 7.0
+},
+{
+"from": "2018-10-22T23:00:00Z",
+"viewers": 136.0,
+"channels": 6.0
+},
+{
+"from": "2018-10-23T00:00:00Z",
+"viewers": 131.0,
+"channels": 6.0
+},
+{
+"from": "2018-10-23T01:00:00Z",
+"viewers": 118.0,
+"channels": 8.0
+},
+{
+"from": "2018-10-23T02:00:00Z",
+"viewers": 118.0,
+"channels": 8.0
+},
+{
+"from": "2018-10-23T03:00:00Z",
+"viewers": 114.0,
+"channels": 7.0
+},
+{
+"from": "2018-10-23T04:00:00Z",
+"viewers": 77.0,
+"channels": 9.0
+},
+{
+"from": "2018-10-23T05:00:00Z",
+"viewers": 77.0,
+"channels": 9.0
+},
+{
+"from": "2018-10-23T06:00:00Z",
+"viewers": 70.0,
+"channels": 8.0
+},
+{
+"from": "2018-10-23T07:00:00Z",
+"viewers": 80.0,
+"channels": 8.0
+},
+{
+"from": "2018-10-23T08:00:00Z",
+"viewers": 92.0,
+"channels": 9.0
+},
+{
+"from": "2018-10-23T09:00:00Z",
+"viewers": 126.0,
+"channels": 11.0
+},
+{
+"from": "2018-10-23T10:00:00Z",
+"viewers": 136.0,
+"channels": 10.0
+},
+{
+"from": "2018-10-23T11:00:00Z",
+"viewers": 142.0,
+"channels": 10.0
+},
+{
+"from": "2018-10-23T12:00:00Z",
+"viewers": 148.0,
+"channels": 8.0
+},
+{
+"from": "2018-10-23T13:00:00Z",
+"viewers": 159.0,
+"channels": 8.0
+},
+{
+"from": "2018-10-23T14:00:00Z",
+"viewers": 158.0,
+"channels": 8.0
+},
+{
+"from": "2018-10-23T15:00:00Z",
+"viewers": 147.0,
+"channels": 9.0
+},
+{
+"from": "2018-10-23T16:00:00Z",
+"viewers": 171.0,
+"channels": 10.0
+},
+{
+"from": "2018-10-23T17:00:00Z",
+"viewers": 183.0,
+"channels": 9.0
+},
+{
+"from": "2018-10-23T18:00:00Z",
+"viewers": 225.0,
+"channels": 12.0
+},
+{
+"from": "2018-10-23T19:00:00Z",
+"viewers": 311.0,
+"channels": 12.0
+},
+{
+"from": "2018-10-23T20:00:00Z",
+"viewers": 272.0,
+"channels": 12.0
+},
+{
+"from": "2018-10-23T21:00:00Z",
+"viewers": 270.0,
+"channels": 10.0
+},
+{
+"from": "2018-10-23T22:00:00Z",
+"viewers": 263.0,
+"channels": 10.0
+},
+{
+"from": "2018-10-23T23:00:00Z",
+"viewers": 205.0,
+"channels": 8.0
+},
+{
+"from": "2018-10-24T00:00:00Z",
+"viewers": 188.0,
+"channels": 8.0
+},
+{
+"from": "2018-10-24T01:00:00Z",
+"viewers": 183.0,
+"channels": 9.0
+},
+{
+"from": "2018-10-24T02:00:00Z",
+"viewers": 168.0,
+"channels": 10.0
+},
+{
+"from": "2018-10-24T03:00:00Z",
+"viewers": 206.0,
+"channels": 13.0
+},
+{
+"from": "2018-10-24T04:00:00Z",
+"viewers": 193.0,
+"channels": 10.0
+},
+{
+"from": "2018-10-24T05:00:00Z",
+"viewers": 155.0,
+"channels": 10.0
+},
+{
+"from": "2018-10-24T06:00:00Z",
+"viewers": 172.0,
+"channels": 9.0
+},
+{
+"from": "2018-10-24T07:00:00Z",
+"viewers": 166.0,
+"channels": 9.0
+},
+{
+"from": "2018-10-24T08:00:00Z",
+"viewers": 186.0,
+"channels": 10.0
+},
+{
+"from": "2018-10-24T09:00:00Z",
+"viewers": 219.0,
+"channels": 9.0
+},
+{
+"from": "2018-10-24T10:00:00Z",
+"viewers": 185.0,
+"channels": 9.0
+},
+{
+"from": "2018-10-24T11:00:00Z",
+"viewers": 232.0,
+"channels": 11.0
+},
+{
+"from": "2018-10-24T12:00:00Z",
+"viewers": 297.0,
+"channels": 12.0
+},
+{
+"from": "2018-10-24T13:00:00Z",
+"viewers": 255.0,
+"channels": 12.0
+},
+{
+"from": "2018-10-24T14:00:00Z",
+"viewers": 247.0,
+"channels": 12.0
+},
+{
+"from": "2018-10-24T15:00:00Z",
+"viewers": 276.0,
+"channels": 13.0
+},
+{
+"from": "2018-10-24T16:00:00Z",
+"viewers": 302.0,
+"channels": 14.0
+},
+{
+"from": "2018-10-24T17:00:00Z",
+"viewers": 292.0,
+"channels": 17.0
+},
+{
+"from": "2018-10-24T18:00:00Z",
+"viewers": 456.0,
+"channels": 22.0
+},
+{
+"from": "2018-10-24T19:00:00Z",
+"viewers": 540.0,
+"channels": 25.0
+},
+{
+"from": "2018-10-24T20:00:00Z",
+"viewers": 539.0,
+"channels": 22.0
+},
+{
+"from": "2018-10-24T21:00:00Z",
+"viewers": 512.0,
+"channels": 20.0
+},
+{
+"from": "2018-10-24T22:00:00Z",
+"viewers": 673.0,
+"channels": 19.0
+},
+{
+"from": "2018-10-24T23:00:00Z",
+"viewers": 772.0,
+"channels": 20.0
+},
+{
+"from": "2018-10-25T00:00:00Z",
+"viewers": 4576.0,
+"channels": 23.0
+},
+{
+"from": "2018-10-25T01:00:00Z",
+"viewers": 1556.0,
+"channels": 19.0
+},
+{
+"from": "2018-10-25T02:00:00Z",
+"viewers": 530.0,
+"channels": 20.0
+},
+{
+"from": "2018-10-25T03:00:00Z",
+"viewers": 445.0,
+"channels": 19.0
+},
+{
+"from": "2018-10-25T04:00:00Z",
+"viewers": 497.0,
+"channels": 19.0
+},
+{
+"from": "2018-10-25T05:00:00Z",
+"viewers": 760.0,
+"channels": 23.0
+},
+{
+"from": "2018-10-25T06:00:00Z",
+"viewers": 1460.0,
+"channels": 28.0
+},
+{
+"from": "2018-10-25T07:00:00Z",
+"viewers": 1684.0,
+"channels": 32.0
+},
+{
+"from": "2018-10-25T08:00:00Z",
+"viewers": 2111.0,
+"channels": 34.0
+},
+{
+"from": "2018-10-25T09:00:00Z",
+"viewers": 2207.0,
+"channels": 35.0
+},
+{
+"from": "2018-10-25T10:00:00Z",
+"viewers": 6906.0,
+"channels": 52.0
+},
+{
+"from": "2018-10-25T11:00:00Z",
+"viewers": 51556.0,
+"channels": 165.0
+},
+{
+"from": "2018-10-25T12:00:00Z",
+"viewers": 72782.0,
+"channels": 224.0
+},
+{
+"from": "2018-10-25T13:00:00Z",
+"viewers": 76461.0,
+"channels": 369.0
+},
+{
+"from": "2018-10-25T14:00:00Z",
+"viewers": 78525.0,
+"channels": 406.0
+},
+{
+"from": "2018-10-25T15:00:00Z",
+"viewers": 87561.0,
+"channels": 502.0
+},
+{
+"from": "2018-10-25T16:00:00Z",
+"viewers": 170798.0,
+"channels": 865.0
+},
+{
+"from": "2018-10-25T17:00:00Z",
+"viewers": 168872.0,
+"channels": 922.0
+},
+{
+"from": "2018-10-25T18:00:00Z",
+"viewers": 184526.0,
+"channels": 898.0
+},
+{
+"from": "2018-10-25T19:00:00Z",
+"viewers": 177759.0,
+"channels": 952.0
+},
+{
+"from": "2018-10-25T20:00:00Z",
+"viewers": 164021.0,
+"channels": 966.0
+},
+{
+"from": "2018-10-25T21:00:00Z",
+"viewers": 172050.0,
+"channels": 1427.0
+},
+{
+"from": "2018-10-25T22:00:00Z",
+"viewers": 176723.0,
+"channels": 2637.0
+},
+{
+"from": "2018-10-25T23:00:00Z",
+"viewers": 154202.0,
+"channels": 3040.0
+},
+{
+"from": "2018-10-26T00:00:00Z",
+"viewers": 116550.0,
+"channels": 2435.0
+},
+{
+"from": "2018-10-26T01:00:00Z",
+"viewers": 102778.0,
+"channels": 1812.0
+},
+{
+"from": "2018-10-26T02:00:00Z",
+"viewers": 99986.0,
+"channels": 1466.0
+},
+{
+"from": "2018-10-26T03:00:00Z",
+"viewers": 84459.0,
+"channels": 1744.0
+},
+{
+"from": "2018-10-26T04:00:00Z",
+"viewers": 152428.0,
+"channels": 7000.0
+},
+{
+"from": "2018-10-26T05:00:00Z",
+"viewers": 176319.0,
+"channels": 8197.0
+},
+{
+"from": "2018-10-26T06:00:00Z",
+"viewers": 163532.0,
+"channels": 6845.0
+},
+{
+"from": "2018-10-26T07:00:00Z",
+"viewers": 148485.0,
+"channels": 5332.0
+},
+{
+"from": "2018-10-26T08:00:00Z",
+"viewers": 134888.0,
+"channels": 4254.0
+},
+{
+"from": "2018-10-26T09:00:00Z",
+"viewers": 120686.0,
+"channels": 3722.0
+},
+{
+"from": "2018-10-26T10:00:00Z",
+"viewers": 119921.0,
+"channels": 3580.0
+},
+{
+"from": "2018-10-26T11:00:00Z",
+"viewers": 138073.0,
+"channels": 3641.0
+},
+{
+"from": "2018-10-26T12:00:00Z",
+"viewers": 165093.0,
+"channels": 3991.0
+},
+{
+"from": "2018-10-26T13:00:00Z",
+"viewers": 195646.0,
+"channels": 4487.0
+},
+{
+"from": "2018-10-26T14:00:00Z",
+"viewers": 231529.0,
+"channels": 5065.0
+},
+{
+"from": "2018-10-26T15:00:00Z",
+"viewers": 264043.0,
+"channels": 5711.0
+},
+{
+"from": "2018-10-26T16:00:00Z",
+"viewers": 330969.0,
+"channels": 6249.0
+},
+{
+"from": "2018-10-26T17:00:00Z",
+"viewers": 369358.0,
+"channels": 6647.0
+},
+{
+"from": "2018-10-26T18:00:00Z",
+"viewers": 322991.0,
+"channels": 7174.0
+},
+{
+"from": "2018-10-26T19:00:00Z",
+"viewers": 290598.0,
+"channels": 7528.0
+},
+{
+"from": "2018-10-26T20:00:00Z",
+"viewers": 281596.0,
+"channels": 7772.0
+},
+{
+"from": "2018-10-26T21:00:00Z",
+"viewers": 258394.0,
+"channels": 7676.0
+},
+{
+"from": "2018-10-26T22:00:00Z",
+"viewers": 223948.0,
+"channels": 7270.0
+},
+{
+"from": "2018-10-26T23:00:00Z",
+"viewers": 192584.0,
+"channels": 6773.0
+},
+{
+"from": "2018-10-27T00:00:00Z",
+"viewers": 161038.0,
+"channels": 6459.0
+},
+{
+"from": "2018-10-27T01:00:00Z",
+"viewers": 142643.0,
+"channels": 6310.0
+},
+{
+"from": "2018-10-27T02:00:00Z",
+"viewers": 135030.0,
+"channels": 6213.0
+},
+{
+"from": "2018-10-27T03:00:00Z",
+"viewers": 127512.0,
+"channels": 5910.0
+},
+{
+"from": "2018-10-27T04:00:00Z",
+"viewers": 127551.0,
+"channels": 5454.0
+},
+{
+"from": "2018-10-27T05:00:00Z",
+"viewers": 120046.0,
+"channels": 4800.0
+},
+{
+"from": "2018-10-27T06:00:00Z",
+"viewers": 118387.0,
+"channels": 4110.0
+},
+{
+"from": "2018-10-27T07:00:00Z",
+"viewers": 116609.0,
+"channels": 3521.0
+},
+{
+"from": "2018-10-27T08:00:00Z",
+"viewers": 97842.0,
+"channels": 3140.0
+},
+{
+"from": "2018-10-27T09:00:00Z",
+"viewers": 95140.0,
+"channels": 2987.0
+},
+{
+"from": "2018-10-27T10:00:00Z",
+"viewers": 102315.0,
+"channels": 2979.0
+},
+{
+"from": "2018-10-27T11:00:00Z",
+"viewers": 121308.0,
+"channels": 3147.0
+},
+{
+"from": "2018-10-27T12:00:00Z",
+"viewers": 138306.0,
+"channels": 3463.0
+},
+{
+"from": "2018-10-27T13:00:00Z",
+"viewers": 142015.0,
+"channels": 3872.0
+},
+{
+"from": "2018-10-27T14:00:00Z",
+"viewers": 159940.0,
+"channels": 4386.0
+},
+{
+"from": "2018-10-27T15:00:00Z",
+"viewers": 188004.0,
+"channels": 4836.0
+},
+{
+"from": "2018-10-27T16:00:00Z",
+"viewers": 210792.0,
+"channels": 5149.0
+},
+{
+"from": "2018-10-27T17:00:00Z",
+"viewers": 219884.0,
+"channels": 5498.0
+},
+{
+"from": "2018-10-27T18:00:00Z",
+"viewers": 201761.0,
+"channels": 5821.0
+},
+{
+"from": "2018-10-27T19:00:00Z",
+"viewers": 196717.0,
+"channels": 6145.0
+},
+{
+"from": "2018-10-27T20:00:00Z",
+"viewers": 192508.0,
+"channels": 6422.0
+},
+{
+"from": "2018-10-27T21:00:00Z",
+"viewers": 182145.0,
+"channels": 6215.0
+},
+{
+"from": "2018-10-27T22:00:00Z",
+"viewers": 168974.0,
+"channels": 5889.0
+},
+{
+"from": "2018-10-27T23:00:00Z",
+"viewers": 149464.0,
+"channels": 5489.0
+},
+{
+"from": "2018-10-28T00:00:00Z",
+"viewers": 135445.0,
+"channels": 5098.0
+},
+{
+"from": "2018-10-28T01:00:00Z",
+"viewers": 101967.0,
+"channels": 4905.0
+},
+{
+"from": "2018-10-28T02:00:00Z",
+"viewers": 110726.0,
+"channels": 4796.0
+},
+{
+"from": "2018-10-28T03:00:00Z",
+"viewers": 103073.0,
+"channels": 4643.0
+},
+{
+"from": "2018-10-28T04:00:00Z",
+"viewers": 89788.0,
+"channels": 4389.0
+},
+{
+"from": "2018-10-28T05:00:00Z",
+"viewers": 92880.0,
+"channels": 4065.0
+},
+{
+"from": "2018-10-28T06:00:00Z",
+"viewers": 94003.0,
+"channels": 3565.0
+},
+{
+"from": "2018-10-28T07:00:00Z",
+"viewers": 95864.0,
+"channels": 3061.0
+},
+{
+"from": "2018-10-28T08:00:00Z",
+"viewers": 84018.0,
+"channels": 2694.0
+},
+{
+"from": "2018-10-28T09:00:00Z",
+"viewers": 72839.0,
+"channels": 2559.0
+},
+{
+"from": "2018-10-28T10:00:00Z",
+"viewers": 81512.0,
+"channels": 2549.0
+},
+{
+"from": "2018-10-28T11:00:00Z",
+"viewers": 98478.0,
+"channels": 2715.0
+},
+{
+"from": "2018-10-28T12:00:00Z",
+"viewers": 115911.0,
+"channels": 2988.0
+},
+{
+"from": "2018-10-28T13:00:00Z",
+"viewers": 131967.0,
+"channels": 3389.0
+},
+{
+"from": "2018-10-28T14:00:00Z",
+"viewers": 156401.0,
+"channels": 3764.0
+},
+{
+"from": "2018-10-28T15:00:00Z",
+"viewers": 168529.0,
+"channels": 4098.0
+},
+{
+"from": "2018-10-28T16:00:00Z",
+"viewers": 173520.0,
+"channels": 4365.0
+},
+{
+"from": "2018-10-28T17:00:00Z",
+"viewers": 168957.0,
+"channels": 4610.0
+},
+{
+"from": "2018-10-28T18:00:00Z",
+"viewers": 168743.0,
+"channels": 4992.0
+},
+{
+"from": "2018-10-28T19:00:00Z",
+"viewers": 169789.0,
+"channels": 5303.0
+},
+{
+"from": "2018-10-28T20:00:00Z",
+"viewers": 163878.0,
+"channels": 5457.0
+},
+{
+"from": "2018-10-28T21:00:00Z",
+"viewers": 159475.0,
+"channels": 5444.0
+},
+{
+"from": "2018-10-28T22:00:00Z",
+"viewers": 166180.0,
+"channels": 5206.0
+},
+{
+"from": "2018-10-28T23:00:00Z",
+"viewers": 125094.0,
+"channels": 4775.0
+}
+]
+},
+"God of War Ragnar\u00f6k": {
+"day_start": "2022-11-09T00:00:00Z",
+"hourly": [
+{
+"from": "2022-10-26T00:00:00Z",
+"viewers": 2.0,
+"channels": 1.0
+},
+{
+"from": "2022-10-26T01:00:00Z",
+"viewers": 0.0,
+"channels": 1.0
+},
+{
+"from": "2022-10-26T13:00:00Z",
+"viewers": 1.0,
+"channels": 1.0
+},
+{
+"from": "2022-10-26T14:00:00Z",
+"viewers": 1.0,
+"channels": 1.0
+},
+{
+"from": "2022-10-26T15:00:00Z",
+"viewers": 1.0,
+"channels": 1.0
+},
+{
+"from": "2022-10-26T16:00:00Z",
+"viewers": 1.0,
+"channels": 1.0
+},
+{
+"from": "2022-10-26T17:00:00Z",
+"viewers": 2.0,
+"channels": 1.0
+},
+{
+"from": "2022-10-26T18:00:00Z",
+"viewers": 2.0,
+"channels": 1.0
+},
+{
+"from": "2022-10-26T19:00:00Z",
+"viewers": 1.0,
+"channels": 1.0
+},
+{
+"from": "2022-10-26T20:00:00Z",
+"viewers": 2.0,
+"channels": 1.0
+},
+{
+"from": "2022-10-26T21:00:00Z",
+"viewers": 3.0,
+"channels": 1.0
+},
+{
+"from": "2022-10-26T22:00:00Z",
+"viewers": 5.0,
+"channels": 1.0
+},
+{
+"from": "2022-10-27T05:00:00Z",
+"viewers": 1.0,
+"channels": 1.0
+},
+{
+"from": "2022-10-27T06:00:00Z",
+"viewers": 1.0,
+"channels": 1.0
+},
+{
+"from": "2022-10-27T07:00:00Z",
+"viewers": 1.0,
+"channels": 1.0
+},
+{
+"from": "2022-10-27T08:00:00Z",
+"viewers": 1.0,
+"channels": 1.0
+},
+{
+"from": "2022-10-27T21:00:00Z",
+"viewers": 1.0,
+"channels": 1.0
+},
+{
+"from": "2022-10-28T00:00:00Z",
+"viewers": 6.0,
+"channels": 1.0
+},
+{
+"from": "2022-10-28T01:00:00Z",
+"viewers": 13.0,
+"channels": 1.0
+},
+{
+"from": "2022-10-28T02:00:00Z",
+"viewers": 15.0,
+"channels": 1.0
+},
+{
+"from": "2022-10-28T03:00:00Z",
+"viewers": 16.0,
+"channels": 1.0
+},
+{
+"from": "2022-10-28T04:00:00Z",
+"viewers": 14.0,
+"channels": 1.0
+},
+{
+"from": "2022-10-28T05:00:00Z",
+"viewers": 14.0,
+"channels": 1.0
+},
+{
+"from": "2022-10-28T06:00:00Z",
+"viewers": 1.0,
+"channels": 1.0
+},
+{
+"from": "2022-10-28T07:00:00Z",
+"viewers": 2.0,
+"channels": 1.0
+},
+{
+"from": "2022-10-28T08:00:00Z",
+"viewers": 2.0,
+"channels": 1.0
+},
+{
+"from": "2022-10-28T09:00:00Z",
+"viewers": 2.0,
+"channels": 1.0
+},
+{
+"from": "2022-10-28T10:00:00Z",
+"viewers": 3.0,
+"channels": 1.0
+},
+{
+"from": "2022-10-28T11:00:00Z",
+"viewers": 2.0,
+"channels": 1.0
+},
+{
+"from": "2022-10-28T17:00:00Z",
+"viewers": 7.0,
+"channels": 1.0
+},
+{
+"from": "2022-10-28T21:00:00Z",
+"viewers": 2.0,
+"channels": 1.0
+},
+{
+"from": "2022-10-28T23:00:00Z",
+"viewers": 2.0,
+"channels": 1.0
+},
+{
+"from": "2022-10-29T00:00:00Z",
+"viewers": 3.0,
+"channels": 1.0
+},
+{
+"from": "2022-10-29T07:00:00Z",
+"viewers": 3.0,
+"channels": 1.0
+},
+{
+"from": "2022-10-29T10:00:00Z",
+"viewers": 3.0,
+"channels": 1.0
+},
+{
+"from": "2022-10-29T11:00:00Z",
+"viewers": 7.0,
+"channels": 1.0
+},
+{
+"from": "2022-10-29T12:00:00Z",
+"viewers": 7.0,
+"channels": 1.0
+},
+{
+"from": "2022-10-29T13:00:00Z",
+"viewers": 8.0,
+"channels": 1.0
+},
+{
+"from": "2022-10-29T14:00:00Z",
+"viewers": 7.0,
+"channels": 1.0
+},
+{
+"from": "2022-10-29T15:00:00Z",
+"viewers": 11.0,
+"channels": 1.0
+},
+{
+"from": "2022-10-29T16:00:00Z",
+"viewers": 12.0,
+"channels": 1.0
+},
+{
+"from": "2022-10-29T17:00:00Z",
+"viewers": 14.0,
+"channels": 1.0
+},
+{
+"from": "2022-10-29T18:00:00Z",
+"viewers": 13.0,
+"channels": 1.0
+},
+{
+"from": "2022-10-29T19:00:00Z",
+"viewers": 16.0,
+"channels": 1.0
+},
+{
+"from": "2022-10-29T20:00:00Z",
+"viewers": 9.0,
+"channels": 1.0
+},
+{
+"from": "2022-10-29T21:00:00Z",
+"viewers": 9.0,
+"channels": 1.0
+},
+{
+"from": "2022-10-29T22:00:00Z",
+"viewers": 4.0,
+"channels": 1.0
+},
+{
+"from": "2022-10-29T23:00:00Z",
+"viewers": 4.0,
+"channels": 1.0
+},
+{
+"from": "2022-10-30T00:00:00Z",
+"viewers": 3.0,
+"channels": 1.0
+},
+{
+"from": "2022-10-30T01:00:00Z",
+"viewers": 3.0,
+"channels": 1.0
+},
+{
+"from": "2022-10-30T02:00:00Z",
+"viewers": 7.0,
+"channels": 1.0
+},
+{
+"from": "2022-10-30T03:00:00Z",
+"viewers": 6.0,
+"channels": 1.0
+},
+{
+"from": "2022-10-30T04:00:00Z",
+"viewers": 6.0,
+"channels": 1.0
+},
+{
+"from": "2022-10-30T05:00:00Z",
+"viewers": 7.0,
+"channels": 1.0
+},
+{
+"from": "2022-10-30T06:00:00Z",
+"viewers": 4.0,
+"channels": 1.0
+},
+{
+"from": "2022-10-30T07:00:00Z",
+"viewers": 2.0,
+"channels": 1.0
+},
+{
+"from": "2022-10-30T08:00:00Z",
+"viewers": 4.0,
+"channels": 1.0
+},
+{
+"from": "2022-10-30T09:00:00Z",
+"viewers": 4.0,
+"channels": 1.0
+},
+{
+"from": "2022-10-30T10:00:00Z",
+"viewers": 5.0,
+"channels": 1.0
+},
+{
+"from": "2022-10-30T11:00:00Z",
+"viewers": 3.0,
+"channels": 1.0
+},
+{
+"from": "2022-10-30T12:00:00Z",
+"viewers": 5.0,
+"channels": 1.0
+},
+{
+"from": "2022-10-30T13:00:00Z",
+"viewers": 5.0,
+"channels": 1.0
+},
+{
+"from": "2022-10-30T17:00:00Z",
+"viewers": 6.0,
+"channels": 1.0
+},
+{
+"from": "2022-10-30T18:00:00Z",
+"viewers": 21.0,
+"channels": 1.0
+},
+{
+"from": "2022-10-30T19:00:00Z",
+"viewers": 18.0,
+"channels": 1.0
+},
+{
+"from": "2022-10-30T20:00:00Z",
+"viewers": 17.0,
+"channels": 1.0
+},
+{
+"from": "2022-10-30T21:00:00Z",
+"viewers": 2.0,
+"channels": 1.0
+},
+{
+"from": "2022-10-31T03:00:00Z",
+"viewers": 1.0,
+"channels": 1.0
+},
+{
+"from": "2022-10-31T10:00:00Z",
+"viewers": 2.0,
+"channels": 1.0
+},
+{
+"from": "2022-10-31T11:00:00Z",
+"viewers": 5.0,
+"channels": 1.0
+},
+{
+"from": "2022-10-31T12:00:00Z",
+"viewers": 6.0,
+"channels": 1.0
+},
+{
+"from": "2022-10-31T13:00:00Z",
+"viewers": 9.0,
+"channels": 1.0
+},
+{
+"from": "2022-10-31T14:00:00Z",
+"viewers": 11.0,
+"channels": 1.0
+},
+{
+"from": "2022-10-31T15:00:00Z",
+"viewers": 14.0,
+"channels": 1.0
+},
+{
+"from": "2022-10-31T16:00:00Z",
+"viewers": 2.0,
+"channels": 1.0
+},
+{
+"from": "2022-10-31T17:00:00Z",
+"viewers": 1.0,
+"channels": 1.0
+},
+{
+"from": "2022-10-31T18:00:00Z",
+"viewers": 2.0,
+"channels": 1.0
+},
+{
+"from": "2022-10-31T19:00:00Z",
+"viewers": 10.0,
+"channels": 1.0
+},
+{
+"from": "2022-10-31T20:00:00Z",
+"viewers": 9.0,
+"channels": 1.0
+},
+{
+"from": "2022-10-31T21:00:00Z",
+"viewers": 7.0,
+"channels": 1.0
+},
+{
+"from": "2022-10-31T22:00:00Z",
+"viewers": 5.0,
+"channels": 1.0
+},
+{
+"from": "2022-10-31T23:00:00Z",
+"viewers": 8.0,
+"channels": 2.0
+},
+{
+"from": "2022-11-01T00:00:00Z",
+"viewers": 3.0,
+"channels": 1.0
+},
+{
+"from": "2022-11-01T01:00:00Z",
+"viewers": 2.0,
+"channels": 1.0
+},
+{
+"from": "2022-11-01T02:00:00Z",
+"viewers": 1.0,
+"channels": 1.0
+},
+{
+"from": "2022-11-01T04:00:00Z",
+"viewers": 1.0,
+"channels": 1.0
+},
+{
+"from": "2022-11-01T05:00:00Z",
+"viewers": 1.0,
+"channels": 1.0
+},
+{
+"from": "2022-11-01T06:00:00Z",
+"viewers": 1.0,
+"channels": 1.0
+},
+{
+"from": "2022-11-01T07:00:00Z",
+"viewers": 3.0,
+"channels": 1.0
+},
+{
+"from": "2022-11-01T08:00:00Z",
+"viewers": 2.0,
+"channels": 1.0
+},
+{
+"from": "2022-11-01T09:00:00Z",
+"viewers": 2.0,
+"channels": 1.0
+},
+{
+"from": "2022-11-01T10:00:00Z",
+"viewers": 4.0,
+"channels": 1.0
+},
+{
+"from": "2022-11-01T12:00:00Z",
+"viewers": 8.0,
+"channels": 1.0
+},
+{
+"from": "2022-11-01T13:00:00Z",
+"viewers": 33.0,
+"channels": 2.0
+},
+{
+"from": "2022-11-01T14:00:00Z",
+"viewers": 46.0,
+"channels": 3.0
+},
+{
+"from": "2022-11-01T15:00:00Z",
+"viewers": 90.0,
+"channels": 2.0
+},
+{
+"from": "2022-11-01T16:00:00Z",
+"viewers": 382.0,
+"channels": 2.0
+},
+{
+"from": "2022-11-01T17:00:00Z",
+"viewers": 52.0,
+"channels": 2.0
+},
+{
+"from": "2022-11-01T18:00:00Z",
+"viewers": 44.0,
+"channels": 2.0
+},
+{
+"from": "2022-11-01T19:00:00Z",
+"viewers": 34.0,
+"channels": 2.0
+},
+{
+"from": "2022-11-01T20:00:00Z",
+"viewers": 17.0,
+"channels": 3.0
+},
+{
+"from": "2022-11-01T21:00:00Z",
+"viewers": 14.0,
+"channels": 4.0
+},
+{
+"from": "2022-11-01T22:00:00Z",
+"viewers": 9.0,
+"channels": 1.0
+},
+{
+"from": "2022-11-01T23:00:00Z",
+"viewers": 12.0,
+"channels": 2.0
+},
+{
+"from": "2022-11-02T00:00:00Z",
+"viewers": 12.0,
+"channels": 2.0
+},
+{
+"from": "2022-11-02T01:00:00Z",
+"viewers": 46.0,
+"channels": 2.0
+},
+{
+"from": "2022-11-02T02:00:00Z",
+"viewers": 12.0,
+"channels": 1.0
+},
+{
+"from": "2022-11-02T03:00:00Z",
+"viewers": 10.0,
+"channels": 2.0
+},
+{
+"from": "2022-11-02T04:00:00Z",
+"viewers": 12.0,
+"channels": 3.0
+},
+{
+"from": "2022-11-02T05:00:00Z",
+"viewers": 8.0,
+"channels": 2.0
+},
+{
+"from": "2022-11-02T06:00:00Z",
+"viewers": 11.0,
+"channels": 2.0
+},
+{
+"from": "2022-11-02T07:00:00Z",
+"viewers": 10.0,
+"channels": 1.0
+},
+{
+"from": "2022-11-02T08:00:00Z",
+"viewers": 5.0,
+"channels": 1.0
+},
+{
+"from": "2022-11-02T09:00:00Z",
+"viewers": 4.0,
+"channels": 1.0
+},
+{
+"from": "2022-11-02T10:00:00Z",
+"viewers": 1.0,
+"channels": 1.0
+},
+{
+"from": "2022-11-02T11:00:00Z",
+"viewers": 23.0,
+"channels": 1.0
+},
+{
+"from": "2022-11-02T12:00:00Z",
+"viewers": 37.0,
+"channels": 2.0
+},
+{
+"from": "2022-11-02T13:00:00Z",
+"viewers": 32.0,
+"channels": 3.0
+},
+{
+"from": "2022-11-02T14:00:00Z",
+"viewers": 7.0,
+"channels": 2.0
+},
+{
+"from": "2022-11-02T15:00:00Z",
+"viewers": 11.0,
+"channels": 3.0
+},
+{
+"from": "2022-11-02T16:00:00Z",
+"viewers": 16.0,
+"channels": 3.0
+},
+{
+"from": "2022-11-02T17:00:00Z",
+"viewers": 22.0,
+"channels": 4.0
+},
+{
+"from": "2022-11-02T18:00:00Z",
+"viewers": 25.0,
+"channels": 5.0
+},
+{
+"from": "2022-11-02T19:00:00Z",
+"viewers": 1507.0,
+"channels": 5.0
+},
+{
+"from": "2022-11-02T20:00:00Z",
+"viewers": 1436.0,
+"channels": 5.0
+},
+{
+"from": "2022-11-02T21:00:00Z",
+"viewers": 20.0,
+"channels": 4.0
+},
+{
+"from": "2022-11-02T22:00:00Z",
+"viewers": 12.0,
+"channels": 4.0
+},
+{
+"from": "2022-11-02T23:00:00Z",
+"viewers": 12.0,
+"channels": 4.0
+},
+{
+"from": "2022-11-03T00:00:00Z",
+"viewers": 12.0,
+"channels": 5.0
+},
+{
+"from": "2022-11-03T01:00:00Z",
+"viewers": 18.0,
+"channels": 5.0
+},
+{
+"from": "2022-11-03T02:00:00Z",
+"viewers": 14.0,
+"channels": 4.0
+},
+{
+"from": "2022-11-03T03:00:00Z",
+"viewers": 9.0,
+"channels": 2.0
+},
+{
+"from": "2022-11-03T04:00:00Z",
+"viewers": 6.0,
+"channels": 1.0
+},
+{
+"from": "2022-11-03T05:00:00Z",
+"viewers": 4.0,
+"channels": 2.0
+},
+{
+"from": "2022-11-03T06:00:00Z",
+"viewers": 5.0,
+"channels": 1.0
+},
+{
+"from": "2022-11-03T07:00:00Z",
+"viewers": 7.0,
+"channels": 1.0
+},
+{
+"from": "2022-11-03T08:00:00Z",
+"viewers": 13.0,
+"channels": 1.0
+},
+{
+"from": "2022-11-03T09:00:00Z",
+"viewers": 12.0,
+"channels": 1.0
+},
+{
+"from": "2022-11-03T11:00:00Z",
+"viewers": 2.0,
+"channels": 1.0
+},
+{
+"from": "2022-11-03T12:00:00Z",
+"viewers": 3.0,
+"channels": 1.0
+},
+{
+"from": "2022-11-03T13:00:00Z",
+"viewers": 5.0,
+"channels": 1.0
+},
+{
+"from": "2022-11-03T14:00:00Z",
+"viewers": 6.0,
+"channels": 2.0
+},
+{
+"from": "2022-11-03T15:00:00Z",
+"viewers": 1618.0,
+"channels": 3.0
+},
+{
+"from": "2022-11-03T16:00:00Z",
+"viewers": 7177.0,
+"channels": 8.0
+},
+{
+"from": "2022-11-03T17:00:00Z",
+"viewers": 5307.0,
+"channels": 5.0
+},
+{
+"from": "2022-11-03T18:00:00Z",
+"viewers": 563.0,
+"channels": 2.0
+},
+{
+"from": "2022-11-03T19:00:00Z",
+"viewers": 37.0,
+"channels": 2.0
+},
+{
+"from": "2022-11-03T20:00:00Z",
+"viewers": 186.0,
+"channels": 3.0
+},
+{
+"from": "2022-11-03T21:00:00Z",
+"viewers": 87.0,
+"channels": 3.0
+},
+{
+"from": "2022-11-03T22:00:00Z",
+"viewers": 45.0,
+"channels": 3.0
+},
+{
+"from": "2022-11-03T23:00:00Z",
+"viewers": 27.0,
+"channels": 3.0
+},
+{
+"from": "2022-11-04T00:00:00Z",
+"viewers": 24.0,
+"channels": 5.0
+},
+{
+"from": "2022-11-04T01:00:00Z",
+"viewers": 32.0,
+"channels": 7.0
+},
+{
+"from": "2022-11-04T02:00:00Z",
+"viewers": 21.0,
+"channels": 3.0
+},
+{
+"from": "2022-11-04T03:00:00Z",
+"viewers": 6.0,
+"channels": 1.0
+},
+{
+"from": "2022-11-04T04:00:00Z",
+"viewers": 20.0,
+"channels": 1.0
+},
+{
+"from": "2022-11-04T05:00:00Z",
+"viewers": 21.0,
+"channels": 1.0
+},
+{
+"from": "2022-11-04T06:00:00Z",
+"viewers": 4.0,
+"channels": 1.0
+},
+{
+"from": "2022-11-04T07:00:00Z",
+"viewers": 7.0,
+"channels": 1.0
+},
+{
+"from": "2022-11-04T08:00:00Z",
+"viewers": 5.0,
+"channels": 1.0
+},
+{
+"from": "2022-11-04T09:00:00Z",
+"viewers": 6.0,
+"channels": 1.0
+},
+{
+"from": "2022-11-04T10:00:00Z",
+"viewers": 8.0,
+"channels": 1.0
+},
+{
+"from": "2022-11-04T11:00:00Z",
+"viewers": 5.0,
+"channels": 1.0
+},
+{
+"from": "2022-11-04T12:00:00Z",
+"viewers": 7.0,
+"channels": 1.0
+},
+{
+"from": "2022-11-04T13:00:00Z",
+"viewers": 17.0,
+"channels": 2.0
+},
+{
+"from": "2022-11-04T14:00:00Z",
+"viewers": 18.0,
+"channels": 3.0
+},
+{
+"from": "2022-11-04T15:00:00Z",
+"viewers": 72.0,
+"channels": 4.0
+},
+{
+"from": "2022-11-04T16:00:00Z",
+"viewers": 29.0,
+"channels": 2.0
+},
+{
+"from": "2022-11-04T17:00:00Z",
+"viewers": 27.0,
+"channels": 1.0
+},
+{
+"from": "2022-11-04T18:00:00Z",
+"viewers": 32.0,
+"channels": 2.0
+},
+{
+"from": "2022-11-04T19:00:00Z",
+"viewers": 119.0,
+"channels": 4.0
+},
+{
+"from": "2022-11-04T20:00:00Z",
+"viewers": 170.0,
+"channels": 4.0
+},
+{
+"from": "2022-11-04T21:00:00Z",
+"viewers": 84.0,
+"channels": 4.0
+},
+{
+"from": "2022-11-04T22:00:00Z",
+"viewers": 52.0,
+"channels": 2.0
+},
+{
+"from": "2022-11-04T23:00:00Z",
+"viewers": 153.0,
+"channels": 3.0
+},
+{
+"from": "2022-11-05T00:00:00Z",
+"viewers": 165.0,
+"channels": 5.0
+},
+{
+"from": "2022-11-05T01:00:00Z",
+"viewers": 312.0,
+"channels": 9.0
+},
+{
+"from": "2022-11-05T02:00:00Z",
+"viewers": 182.0,
+"channels": 7.0
+},
+{
+"from": "2022-11-05T03:00:00Z",
+"viewers": 160.0,
+"channels": 6.0
+},
+{
+"from": "2022-11-05T04:00:00Z",
+"viewers": 230.0,
+"channels": 12.0
+},
+{
+"from": "2022-11-05T05:00:00Z",
+"viewers": 325.0,
+"channels": 14.0
+},
+{
+"from": "2022-11-05T06:00:00Z",
+"viewers": 245.0,
+"channels": 10.0
+},
+{
+"from": "2022-11-05T07:00:00Z",
+"viewers": 168.0,
+"channels": 7.0
+},
+{
+"from": "2022-11-05T08:00:00Z",
+"viewers": 97.0,
+"channels": 3.0
+},
+{
+"from": "2022-11-05T09:00:00Z",
+"viewers": 94.0,
+"channels": 2.0
+},
+{
+"from": "2022-11-05T10:00:00Z",
+"viewers": 100.0,
+"channels": 3.0
+},
+{
+"from": "2022-11-05T11:00:00Z",
+"viewers": 144.0,
+"channels": 3.0
+},
+{
+"from": "2022-11-05T12:00:00Z",
+"viewers": 110.0,
+"channels": 2.0
+},
+{
+"from": "2022-11-05T13:00:00Z",
+"viewers": 126.0,
+"channels": 3.0
+},
+{
+"from": "2022-11-05T14:00:00Z",
+"viewers": 192.0,
+"channels": 4.0
+},
+{
+"from": "2022-11-05T15:00:00Z",
+"viewers": 302.0,
+"channels": 5.0
+},
+{
+"from": "2022-11-05T16:00:00Z",
+"viewers": 392.0,
+"channels": 5.0
+},
+{
+"from": "2022-11-05T17:00:00Z",
+"viewers": 616.0,
+"channels": 9.0
+},
+{
+"from": "2022-11-05T18:00:00Z",
+"viewers": 714.0,
+"channels": 9.0
+},
+{
+"from": "2022-11-05T19:00:00Z",
+"viewers": 732.0,
+"channels": 11.0
+},
+{
+"from": "2022-11-05T20:00:00Z",
+"viewers": 1126.0,
+"channels": 14.0
+},
+{
+"from": "2022-11-05T21:00:00Z",
+"viewers": 984.0,
+"channels": 12.0
+},
+{
+"from": "2022-11-05T22:00:00Z",
+"viewers": 1183.0,
+"channels": 14.0
+},
+{
+"from": "2022-11-05T23:00:00Z",
+"viewers": 1215.0,
+"channels": 19.0
+},
+{
+"from": "2022-11-06T00:00:00Z",
+"viewers": 1298.0,
+"channels": 15.0
+},
+{
+"from": "2022-11-06T01:00:00Z",
+"viewers": 1267.0,
+"channels": 14.0
+},
+{
+"from": "2022-11-06T02:00:00Z",
+"viewers": 1405.0,
+"channels": 15.0
+},
+{
+"from": "2022-11-06T03:00:00Z",
+"viewers": 1420.0,
+"channels": 16.0
+},
+{
+"from": "2022-11-06T04:00:00Z",
+"viewers": 1151.0,
+"channels": 14.0
+},
+{
+"from": "2022-11-06T05:00:00Z",
+"viewers": 1080.0,
+"channels": 9.0
+},
+{
+"from": "2022-11-06T06:00:00Z",
+"viewers": 768.0,
+"channels": 8.0
+},
+{
+"from": "2022-11-06T08:00:00Z",
+"viewers": 253.0,
+"channels": 4.0
+},
+{
+"from": "2022-11-06T09:00:00Z",
+"viewers": 80.0,
+"channels": 2.0
+},
+{
+"from": "2022-11-06T10:00:00Z",
+"viewers": 31.0,
+"channels": 1.0
+},
+{
+"from": "2022-11-06T11:00:00Z",
+"viewers": 36.0,
+"channels": 2.0
+},
+{
+"from": "2022-11-06T12:00:00Z",
+"viewers": 112.0,
+"channels": 3.0
+},
+{
+"from": "2022-11-06T13:00:00Z",
+"viewers": 208.0,
+"channels": 5.0
+},
+{
+"from": "2022-11-06T14:00:00Z",
+"viewers": 295.0,
+"channels": 6.0
+},
+{
+"from": "2022-11-06T15:00:00Z",
+"viewers": 319.0,
+"channels": 5.0
+},
+{
+"from": "2022-11-06T16:00:00Z",
+"viewers": 621.0,
+"channels": 6.0
+},
+{
+"from": "2022-11-06T17:00:00Z",
+"viewers": 902.0,
+"channels": 10.0
+},
+{
+"from": "2022-11-06T18:00:00Z",
+"viewers": 1380.0,
+"channels": 12.0
+},
+{
+"from": "2022-11-06T19:00:00Z",
+"viewers": 1763.0,
+"channels": 12.0
+},
+{
+"from": "2022-11-06T20:00:00Z",
+"viewers": 1906.0,
+"channels": 17.0
+},
+{
+"from": "2022-11-06T21:00:00Z",
+"viewers": 753.0,
+"channels": 14.0
+},
+{
+"from": "2022-11-06T22:00:00Z",
+"viewers": 452.0,
+"channels": 15.0
+},
+{
+"from": "2022-11-06T23:00:00Z",
+"viewers": 514.0,
+"channels": 14.0
+},
+{
+"from": "2022-11-07T00:00:00Z",
+"viewers": 568.0,
+"channels": 12.0
+},
+{
+"from": "2022-11-07T01:00:00Z",
+"viewers": 599.0,
+"channels": 13.0
+},
+{
+"from": "2022-11-07T02:00:00Z",
+"viewers": 525.0,
+"channels": 12.0
+},
+{
+"from": "2022-11-07T03:00:00Z",
+"viewers": 665.0,
+"channels": 14.0
+},
+{
+"from": "2022-11-07T04:00:00Z",
+"viewers": 503.0,
+"channels": 12.0
+},
+{
+"from": "2022-11-07T05:00:00Z",
+"viewers": 471.0,
+"channels": 13.0
+},
+{
+"from": "2022-11-07T06:00:00Z",
+"viewers": 271.0,
+"channels": 11.0
+},
+{
+"from": "2022-11-07T07:00:00Z",
+"viewers": 83.0,
+"channels": 8.0
+},
+{
+"from": "2022-11-07T08:00:00Z",
+"viewers": 84.0,
+"channels": 7.0
+},
+{
+"from": "2022-11-07T09:00:00Z",
+"viewers": 67.0,
+"channels": 6.0
+},
+{
+"from": "2022-11-07T10:00:00Z",
+"viewers": 65.0,
+"channels": 7.0
+},
+{
+"from": "2022-11-07T11:00:00Z",
+"viewers": 66.0,
+"channels": 7.0
+},
+{
+"from": "2022-11-07T12:00:00Z",
+"viewers": 80.0,
+"channels": 8.0
+},
+{
+"from": "2022-11-07T13:00:00Z",
+"viewers": 94.0,
+"channels": 8.0
+},
+{
+"from": "2022-11-07T14:00:00Z",
+"viewers": 199.0,
+"channels": 9.0
+},
+{
+"from": "2022-11-07T15:00:00Z",
+"viewers": 301.0,
+"channels": 9.0
+},
+{
+"from": "2022-11-07T16:00:00Z",
+"viewers": 238.0,
+"channels": 11.0
+},
+{
+"from": "2022-11-07T17:00:00Z",
+"viewers": 309.0,
+"channels": 12.0
+},
+{
+"from": "2022-11-07T18:00:00Z",
+"viewers": 314.0,
+"channels": 16.0
+},
+{
+"from": "2022-11-07T19:00:00Z",
+"viewers": 462.0,
+"channels": 20.0
+},
+{
+"from": "2022-11-07T20:00:00Z",
+"viewers": 396.0,
+"channels": 16.0
+},
+{
+"from": "2022-11-07T21:00:00Z",
+"viewers": 178.0,
+"channels": 13.0
+},
+{
+"from": "2022-11-07T22:00:00Z",
+"viewers": 293.0,
+"channels": 15.0
+},
+{
+"from": "2022-11-07T23:00:00Z",
+"viewers": 279.0,
+"channels": 18.0
+},
+{
+"from": "2022-11-08T00:00:00Z",
+"viewers": 349.0,
+"channels": 20.0
+},
+{
+"from": "2022-11-08T01:00:00Z",
+"viewers": 435.0,
+"channels": 26.0
+},
+{
+"from": "2022-11-08T02:00:00Z",
+"viewers": 511.0,
+"channels": 22.0
+},
+{
+"from": "2022-11-08T03:00:00Z",
+"viewers": 521.0,
+"channels": 22.0
+},
+{
+"from": "2022-11-08T04:00:00Z",
+"viewers": 569.0,
+"channels": 24.0
+},
+{
+"from": "2022-11-08T05:00:00Z",
+"viewers": 541.0,
+"channels": 25.0
+},
+{
+"from": "2022-11-08T06:00:00Z",
+"viewers": 724.0,
+"channels": 28.0
+},
+{
+"from": "2022-11-08T07:00:00Z",
+"viewers": 929.0,
+"channels": 25.0
+},
+{
+"from": "2022-11-08T08:00:00Z",
+"viewers": 829.0,
+"channels": 20.0
+},
+{
+"from": "2022-11-08T09:00:00Z",
+"viewers": 1106.0,
+"channels": 18.0
+},
+{
+"from": "2022-11-08T10:00:00Z",
+"viewers": 20422.0,
+"channels": 31.0
+},
+{
+"from": "2022-11-08T11:00:00Z",
+"viewers": 127049.0,
+"channels": 124.0
+},
+{
+"from": "2022-11-08T12:00:00Z",
+"viewers": 169591.0,
+"channels": 164.0
+},
+{
+"from": "2022-11-08T13:00:00Z",
+"viewers": 188822.0,
+"channels": 298.0
+},
+{
+"from": "2022-11-08T14:00:00Z",
+"viewers": 234687.0,
+"channels": 345.0
+},
+{
+"from": "2022-11-08T15:00:00Z",
+"viewers": 338374.0,
+"channels": 469.0
+},
+{
+"from": "2022-11-08T16:00:00Z",
+"viewers": 363157.0,
+"channels": 616.0
+},
+{
+"from": "2022-11-08T17:00:00Z",
+"viewers": 390261.0,
+"channels": 641.0
+},
+{
+"from": "2022-11-08T18:00:00Z",
+"viewers": 409199.0,
+"channels": 613.0
+},
+{
+"from": "2022-11-08T19:00:00Z",
+"viewers": 449488.0,
+"channels": 635.0
+},
+{
+"from": "2022-11-08T20:00:00Z",
+"viewers": 413089.0,
+"channels": 680.0
+},
+{
+"from": "2022-11-08T21:00:00Z",
+"viewers": 397663.0,
+"channels": 1065.0
+},
+{
+"from": "2022-11-08T22:00:00Z",
+"viewers": 359862.0,
+"channels": 1252.0
+},
+{
+"from": "2022-11-08T23:00:00Z",
+"viewers": 325651.0,
+"channels": 2398.0
+},
+{
+"from": "2022-11-09T00:00:00Z",
+"viewers": 269517.0,
+"channels": 2709.0
+},
+{
+"from": "2022-11-09T01:00:00Z",
+"viewers": 220787.0,
+"channels": 2177.0
+},
+{
+"from": "2022-11-09T02:00:00Z",
+"viewers": 146900.0,
+"channels": 1632.0
+},
+{
+"from": "2022-11-09T03:00:00Z",
+"viewers": 141669.0,
+"channels": 2923.0
+},
+{
+"from": "2022-11-09T04:00:00Z",
+"viewers": 156301.0,
+"channels": 2909.0
+},
+{
+"from": "2022-11-09T05:00:00Z",
+"viewers": 281917.0,
+"channels": 9253.0
+},
+{
+"from": "2022-11-09T06:00:00Z",
+"viewers": 273454.0,
+"channels": 10311.0
+},
+{
+"from": "2022-11-09T07:00:00Z",
+"viewers": 258613.0,
+"channels": 8024.0
+},
+{
+"from": "2022-11-09T08:00:00Z",
+"viewers": 196345.0,
+"channels": 5728.0
+},
+{
+"from": "2022-11-09T09:00:00Z",
+"viewers": 186781.0,
+"channels": 4553.0
+},
+{
+"from": "2022-11-09T10:00:00Z",
+"viewers": 189204.0,
+"channels": 4119.0
+},
+{
+"from": "2022-11-09T11:00:00Z",
+"viewers": 152840.0,
+"channels": 4070.0
+},
+{
+"from": "2022-11-09T12:00:00Z",
+"viewers": 179704.0,
+"channels": 4446.0
+},
+{
+"from": "2022-11-09T13:00:00Z",
+"viewers": 217655.0,
+"channels": 5062.0
+},
+{
+"from": "2022-11-09T14:00:00Z",
+"viewers": 271761.0,
+"channels": 5962.0
+},
+{
+"from": "2022-11-09T15:00:00Z",
+"viewers": 310384.0,
+"channels": 6924.0
+},
+{
+"from": "2022-11-09T16:00:00Z",
+"viewers": 376075.0,
+"channels": 8024.0
+},
+{
+"from": "2022-11-09T17:00:00Z",
+"viewers": 435038.0,
+"channels": 9196.0
+},
+{
+"from": "2022-11-09T18:00:00Z",
+"viewers": 444580.0,
+"channels": 10077.0
+},
+{
+"from": "2022-11-09T19:00:00Z",
+"viewers": 460387.0,
+"channels": 10829.0
+},
+{
+"from": "2022-11-09T20:00:00Z",
+"viewers": 445097.0,
+"channels": 11202.0
+},
+{
+"from": "2022-11-09T21:00:00Z",
+"viewers": 434600.0,
+"channels": 11447.0
+},
+{
+"from": "2022-11-09T22:00:00Z",
+"viewers": 411192.0,
+"channels": 11508.0
+},
+{
+"from": "2022-11-09T23:00:00Z",
+"viewers": 383725.0,
+"channels": 11455.0
+},
+{
+"from": "2022-11-10T00:00:00Z",
+"viewers": 341814.0,
+"channels": 11475.0
+},
+{
+"from": "2022-11-10T01:00:00Z",
+"viewers": 264825.0,
+"channels": 11410.0
+},
+{
+"from": "2022-11-10T02:00:00Z",
+"viewers": 227934.0,
+"channels": 11112.0
+},
+{
+"from": "2022-11-10T03:00:00Z",
+"viewers": 176357.0,
+"channels": 10165.0
+},
+{
+"from": "2022-11-10T04:00:00Z",
+"viewers": 167574.0,
+"channels": 9003.0
+},
+{
+"from": "2022-11-10T05:00:00Z",
+"viewers": 136042.0,
+"channels": 7500.0
+},
+{
+"from": "2022-11-10T06:00:00Z",
+"viewers": 104420.0,
+"channels": 6073.0
+},
+{
+"from": "2022-11-10T07:00:00Z",
+"viewers": 82843.0,
+"channels": 4803.0
+},
+{
+"from": "2022-11-10T08:00:00Z",
+"viewers": 82015.0,
+"channels": 3814.0
+},
+{
+"from": "2022-11-10T09:00:00Z",
+"viewers": 79979.0,
+"channels": 3279.0
+},
+{
+"from": "2022-11-10T10:00:00Z",
+"viewers": 74602.0,
+"channels": 3065.0
+},
+{
+"from": "2022-11-10T11:00:00Z",
+"viewers": 85703.0,
+"channels": 3077.0
+},
+{
+"from": "2022-11-10T12:00:00Z",
+"viewers": 106975.0,
+"channels": 3315.0
+},
+{
+"from": "2022-11-10T13:00:00Z",
+"viewers": 134366.0,
+"channels": 3857.0
+},
+{
+"from": "2022-11-10T14:00:00Z",
+"viewers": 172221.0,
+"channels": 4647.0
+},
+{
+"from": "2022-11-10T15:00:00Z",
+"viewers": 216313.0,
+"channels": 5466.0
+},
+{
+"from": "2022-11-10T16:00:00Z",
+"viewers": 244734.0,
+"channels": 6218.0
+},
+{
+"from": "2022-11-10T17:00:00Z",
+"viewers": 309851.0,
+"channels": 7057.0
+},
+{
+"from": "2022-11-10T18:00:00Z",
+"viewers": 329026.0,
+"channels": 7666.0
+},
+{
+"from": "2022-11-10T19:00:00Z",
+"viewers": 340441.0,
+"channels": 8201.0
+},
+{
+"from": "2022-11-10T20:00:00Z",
+"viewers": 326623.0,
+"channels": 8602.0
+},
+{
+"from": "2022-11-10T21:00:00Z",
+"viewers": 324628.0,
+"channels": 8890.0
+},
+{
+"from": "2022-11-10T22:00:00Z",
+"viewers": 325570.0,
+"channels": 9133.0
+},
+{
+"from": "2022-11-10T23:00:00Z",
+"viewers": 307770.0,
+"channels": 9236.0
+},
+{
+"from": "2022-11-11T00:00:00Z",
+"viewers": 226497.0,
+"channels": 9207.0
+},
+{
+"from": "2022-11-11T01:00:00Z",
+"viewers": 219967.0,
+"channels": 9195.0
+},
+{
+"from": "2022-11-11T02:00:00Z",
+"viewers": 163467.0,
+"channels": 8810.0
+},
+{
+"from": "2022-11-11T03:00:00Z",
+"viewers": 115795.0,
+"channels": 8299.0
+},
+{
+"from": "2022-11-11T04:00:00Z",
+"viewers": 102303.0,
+"channels": 7584.0
+},
+{
+"from": "2022-11-11T05:00:00Z",
+"viewers": 100539.0,
+"channels": 6596.0
+},
+{
+"from": "2022-11-11T06:00:00Z",
+"viewers": 130328.0,
+"channels": 5383.0
+},
+{
+"from": "2022-11-11T07:00:00Z",
+"viewers": 104094.0,
+"channels": 4276.0
+},
+{
+"from": "2022-11-11T08:00:00Z",
+"viewers": 97045.0,
+"channels": 3511.0
+},
+{
+"from": "2022-11-11T09:00:00Z",
+"viewers": 87594.0,
+"channels": 3098.0
+},
+{
+"from": "2022-11-11T10:00:00Z",
+"viewers": 70320.0,
+"channels": 2961.0
+},
+{
+"from": "2022-11-11T11:00:00Z",
+"viewers": 78179.0,
+"channels": 2927.0
+},
+{
+"from": "2022-11-11T12:00:00Z",
+"viewers": 90571.0,
+"channels": 3153.0
+},
+{
+"from": "2022-11-11T13:00:00Z",
+"viewers": 113843.0,
+"channels": 3657.0
+},
+{
+"from": "2022-11-11T14:00:00Z",
+"viewers": 129453.0,
+"channels": 4236.0
+},
+{
+"from": "2022-11-11T15:00:00Z",
+"viewers": 155101.0,
+"channels": 5000.0
+},
+{
+"from": "2022-11-11T16:00:00Z",
+"viewers": 159639.0,
+"channels": 5671.0
+},
+{
+"from": "2022-11-11T17:00:00Z",
+"viewers": 160370.0,
+"channels": 6268.0
+},
+{
+"from": "2022-11-11T18:00:00Z",
+"viewers": 156772.0,
+"channels": 6758.0
+},
+{
+"from": "2022-11-11T19:00:00Z",
+"viewers": 201897.0,
+"channels": 7275.0
+},
+{
+"from": "2022-11-11T20:00:00Z",
+"viewers": 239606.0,
+"channels": 7829.0
+},
+{
+"from": "2022-11-11T21:00:00Z",
+"viewers": 236464.0,
+"channels": 8091.0
+},
+{
+"from": "2022-11-11T22:00:00Z",
+"viewers": 221103.0,
+"channels": 8296.0
+},
+{
+"from": "2022-11-11T23:00:00Z",
+"viewers": 190132.0,
+"channels": 8308.0
+}
+]
+},
+"Marvel's Spider-Man 2": {
+"day_start": "2023-10-20T00:00:00Z",
+"hourly": [
+{
+"from": "2023-10-06T03:00:00Z",
+"viewers": 0.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-06T04:00:00Z",
+"viewers": 1.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-06T05:00:00Z",
+"viewers": 1.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-06T06:00:00Z",
+"viewers": 4.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-06T07:00:00Z",
+"viewers": 4.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-06T08:00:00Z",
+"viewers": 4.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-06T09:00:00Z",
+"viewers": 6.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-06T16:00:00Z",
+"viewers": 0.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-06T17:00:00Z",
+"viewers": 0.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-06T18:00:00Z",
+"viewers": 0.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-06T19:00:00Z",
+"viewers": 1.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-06T20:00:00Z",
+"viewers": 2.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-07T00:00:00Z",
+"viewers": 1.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-07T01:00:00Z",
+"viewers": 1.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-07T02:00:00Z",
+"viewers": 1.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-07T03:00:00Z",
+"viewers": 1.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-07T04:00:00Z",
+"viewers": 1.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-07T05:00:00Z",
+"viewers": 1.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-07T06:00:00Z",
+"viewers": 4.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-07T17:00:00Z",
+"viewers": 1.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-07T18:00:00Z",
+"viewers": 1.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-07T19:00:00Z",
+"viewers": 1.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-07T20:00:00Z",
+"viewers": 1.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-07T21:00:00Z",
+"viewers": 1.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-08T05:00:00Z",
+"viewers": 1.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-08T06:00:00Z",
+"viewers": 1.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-08T07:00:00Z",
+"viewers": 1.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-08T08:00:00Z",
+"viewers": 1.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-08T09:00:00Z",
+"viewers": 1.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-08T10:00:00Z",
+"viewers": 1.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-08T11:00:00Z",
+"viewers": 1.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-08T12:00:00Z",
+"viewers": 1.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-08T13:00:00Z",
+"viewers": 1.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-08T14:00:00Z",
+"viewers": 1.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-08T15:00:00Z",
+"viewers": 0.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-08T16:00:00Z",
+"viewers": 3.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-08T17:00:00Z",
+"viewers": 1.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-09T03:00:00Z",
+"viewers": 1.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-09T04:00:00Z",
+"viewers": 1.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-09T05:00:00Z",
+"viewers": 1.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-09T06:00:00Z",
+"viewers": 1.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-09T07:00:00Z",
+"viewers": 1.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-09T08:00:00Z",
+"viewers": 1.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-09T09:00:00Z",
+"viewers": 1.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-09T11:00:00Z",
+"viewers": 1.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-09T12:00:00Z",
+"viewers": 1.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-09T13:00:00Z",
+"viewers": 1.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-09T15:00:00Z",
+"viewers": 1.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-09T17:00:00Z",
+"viewers": 0.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-09T18:00:00Z",
+"viewers": 1.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-09T21:00:00Z",
+"viewers": 0.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-09T22:00:00Z",
+"viewers": 0.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-09T23:00:00Z",
+"viewers": 0.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-10T00:00:00Z",
+"viewers": 0.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-10T06:00:00Z",
+"viewers": 0.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-10T07:00:00Z",
+"viewers": 0.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-10T15:00:00Z",
+"viewers": 0.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-10T16:00:00Z",
+"viewers": 1.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-10T17:00:00Z",
+"viewers": 2.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-10T18:00:00Z",
+"viewers": 3.0,
+"channels": 2.0
+},
+{
+"from": "2023-10-10T19:00:00Z",
+"viewers": 3.0,
+"channels": 2.0
+},
+{
+"from": "2023-10-10T20:00:00Z",
+"viewers": 3.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-10T21:00:00Z",
+"viewers": 2.0,
+"channels": 2.0
+},
+{
+"from": "2023-10-10T22:00:00Z",
+"viewers": 1.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-10T23:00:00Z",
+"viewers": 1.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-11T00:00:00Z",
+"viewers": 2.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-11T01:00:00Z",
+"viewers": 3.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-11T02:00:00Z",
+"viewers": 1.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-11T03:00:00Z",
+"viewers": 1.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-11T04:00:00Z",
+"viewers": 1.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-11T05:00:00Z",
+"viewers": 1.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-11T06:00:00Z",
+"viewers": 1.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-11T12:00:00Z",
+"viewers": 0.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-11T13:00:00Z",
+"viewers": 56.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-11T15:00:00Z",
+"viewers": 1.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-11T16:00:00Z",
+"viewers": 2.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-11T17:00:00Z",
+"viewers": 2.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-11T18:00:00Z",
+"viewers": 1.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-11T19:00:00Z",
+"viewers": 2.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-11T20:00:00Z",
+"viewers": 3.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-11T21:00:00Z",
+"viewers": 4.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-11T22:00:00Z",
+"viewers": 3.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-12T03:00:00Z",
+"viewers": 385.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-12T04:00:00Z",
+"viewers": 435.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-12T05:00:00Z",
+"viewers": 5.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-12T06:00:00Z",
+"viewers": 3.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-12T07:00:00Z",
+"viewers": 2.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-12T08:00:00Z",
+"viewers": 6.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-12T09:00:00Z",
+"viewers": 2.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-12T10:00:00Z",
+"viewers": 3.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-12T11:00:00Z",
+"viewers": 9.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-12T12:00:00Z",
+"viewers": 8.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-12T13:00:00Z",
+"viewers": 8.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-12T14:00:00Z",
+"viewers": 3.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-12T15:00:00Z",
+"viewers": 4.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-12T16:00:00Z",
+"viewers": 2.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-12T17:00:00Z",
+"viewers": 5.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-12T18:00:00Z",
+"viewers": 5.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-12T19:00:00Z",
+"viewers": 4.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-12T20:00:00Z",
+"viewers": 3.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-12T21:00:00Z",
+"viewers": 7.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-12T22:00:00Z",
+"viewers": 6.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-13T13:00:00Z",
+"viewers": 1.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-13T15:00:00Z",
+"viewers": 12.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-13T16:00:00Z",
+"viewers": 13.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-13T19:00:00Z",
+"viewers": 2.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-13T20:00:00Z",
+"viewers": 3.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-13T21:00:00Z",
+"viewers": 12.0,
+"channels": 3.0
+},
+{
+"from": "2023-10-13T22:00:00Z",
+"viewers": 33.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-14T00:00:00Z",
+"viewers": 8.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-14T01:00:00Z",
+"viewers": 3.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-14T02:00:00Z",
+"viewers": 3.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-14T03:00:00Z",
+"viewers": 3.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-14T04:00:00Z",
+"viewers": 50.0,
+"channels": 2.0
+},
+{
+"from": "2023-10-14T05:00:00Z",
+"viewers": 88.0,
+"channels": 2.0
+},
+{
+"from": "2023-10-14T06:00:00Z",
+"viewers": 191.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-14T07:00:00Z",
+"viewers": 23.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-14T08:00:00Z",
+"viewers": 3.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-14T09:00:00Z",
+"viewers": 5.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-14T10:00:00Z",
+"viewers": 71.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-14T11:00:00Z",
+"viewers": 159.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-14T12:00:00Z",
+"viewers": 201.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-14T15:00:00Z",
+"viewers": 44.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-14T16:00:00Z",
+"viewers": 198.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-14T19:00:00Z",
+"viewers": 3.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-14T20:00:00Z",
+"viewers": 29.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-14T21:00:00Z",
+"viewers": 160.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-14T22:00:00Z",
+"viewers": 196.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-14T23:00:00Z",
+"viewers": 2.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-15T00:00:00Z",
+"viewers": 14.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-15T01:00:00Z",
+"viewers": 59.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-15T02:00:00Z",
+"viewers": 6.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-15T03:00:00Z",
+"viewers": 4.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-15T04:00:00Z",
+"viewers": 4.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-15T05:00:00Z",
+"viewers": 3.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-15T06:00:00Z",
+"viewers": 3.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-15T07:00:00Z",
+"viewers": 26.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-15T17:00:00Z",
+"viewers": 3.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-15T18:00:00Z",
+"viewers": 9.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-15T19:00:00Z",
+"viewers": 10.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-15T20:00:00Z",
+"viewers": 8.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-15T21:00:00Z",
+"viewers": 19.0,
+"channels": 2.0
+},
+{
+"from": "2023-10-15T22:00:00Z",
+"viewers": 28.0,
+"channels": 3.0
+},
+{
+"from": "2023-10-15T23:00:00Z",
+"viewers": 22.0,
+"channels": 3.0
+},
+{
+"from": "2023-10-16T00:00:00Z",
+"viewers": 19.0,
+"channels": 2.0
+},
+{
+"from": "2023-10-16T01:00:00Z",
+"viewers": 19.0,
+"channels": 2.0
+},
+{
+"from": "2023-10-16T02:00:00Z",
+"viewers": 14.0,
+"channels": 2.0
+},
+{
+"from": "2023-10-16T03:00:00Z",
+"viewers": 66.0,
+"channels": 2.0
+},
+{
+"from": "2023-10-16T04:00:00Z",
+"viewers": 10.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-16T05:00:00Z",
+"viewers": 4.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-16T06:00:00Z",
+"viewers": 6.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-16T07:00:00Z",
+"viewers": 10.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-16T08:00:00Z",
+"viewers": 5.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-16T09:00:00Z",
+"viewers": 3.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-16T11:00:00Z",
+"viewers": 3.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-16T12:00:00Z",
+"viewers": 5.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-16T13:00:00Z",
+"viewers": 326.0,
+"channels": 2.0
+},
+{
+"from": "2023-10-16T14:00:00Z",
+"viewers": 2260.0,
+"channels": 5.0
+},
+{
+"from": "2023-10-16T15:00:00Z",
+"viewers": 1459.0,
+"channels": 4.0
+},
+{
+"from": "2023-10-16T16:00:00Z",
+"viewers": 2977.0,
+"channels": 3.0
+},
+{
+"from": "2023-10-16T17:00:00Z",
+"viewers": 3094.0,
+"channels": 2.0
+},
+{
+"from": "2023-10-16T18:00:00Z",
+"viewers": 3040.0,
+"channels": 2.0
+},
+{
+"from": "2023-10-16T19:00:00Z",
+"viewers": 3291.0,
+"channels": 2.0
+},
+{
+"from": "2023-10-16T20:00:00Z",
+"viewers": 3204.0,
+"channels": 4.0
+},
+{
+"from": "2023-10-16T21:00:00Z",
+"viewers": 3085.0,
+"channels": 4.0
+},
+{
+"from": "2023-10-16T22:00:00Z",
+"viewers": 2841.0,
+"channels": 2.0
+},
+{
+"from": "2023-10-16T23:00:00Z",
+"viewers": 2658.0,
+"channels": 2.0
+},
+{
+"from": "2023-10-17T00:00:00Z",
+"viewers": 2493.0,
+"channels": 3.0
+},
+{
+"from": "2023-10-17T01:00:00Z",
+"viewers": 2775.0,
+"channels": 6.0
+},
+{
+"from": "2023-10-17T02:00:00Z",
+"viewers": 2555.0,
+"channels": 6.0
+},
+{
+"from": "2023-10-17T03:00:00Z",
+"viewers": 268.0,
+"channels": 7.0
+},
+{
+"from": "2023-10-17T04:00:00Z",
+"viewers": 365.0,
+"channels": 4.0
+},
+{
+"from": "2023-10-17T05:00:00Z",
+"viewers": 332.0,
+"channels": 3.0
+},
+{
+"from": "2023-10-17T06:00:00Z",
+"viewers": 271.0,
+"channels": 3.0
+},
+{
+"from": "2023-10-17T07:00:00Z",
+"viewers": 174.0,
+"channels": 1.0
+},
+{
+"from": "2023-10-17T08:00:00Z",
+"viewers": 168.0,
+"channels": 2.0
+},
+{
+"from": "2023-10-17T09:00:00Z",
+"viewers": 89.0,
+"channels": 2.0
+},
+{
+"from": "2023-10-17T10:00:00Z",
+"viewers": 141.0,
+"channels": 2.0
+},
+{
+"from": "2023-10-17T11:00:00Z",
+"viewers": 156.0,
+"channels": 3.0
+},
+{
+"from": "2023-10-17T12:00:00Z",
+"viewers": 20.0,
+"channels": 2.0
+},
+{
+"from": "2023-10-17T13:00:00Z",
+"viewers": 77.0,
+"channels": 2.0
+},
+{
+"from": "2023-10-17T14:00:00Z",
+"viewers": 101.0,
+"channels": 3.0
+},
+{
+"from": "2023-10-17T15:00:00Z",
+"viewers": 54.0,
+"channels": 5.0
+},
+{
+"from": "2023-10-17T16:00:00Z",
+"viewers": 1257.0,
+"channels": 7.0
+},
+{
+"from": "2023-10-17T17:00:00Z",
+"viewers": 3114.0,
+"channels": 7.0
+},
+{
+"from": "2023-10-17T18:00:00Z",
+"viewers": 3292.0,
+"channels": 9.0
+},
+{
+"from": "2023-10-17T19:00:00Z",
+"viewers": 3290.0,
+"channels": 7.0
+},
+{
+"from": "2023-10-17T20:00:00Z",
+"viewers": 3270.0,
+"channels": 7.0
+},
+{
+"from": "2023-10-17T21:00:00Z",
+"viewers": 3291.0,
+"channels": 5.0
+},
+{
+"from": "2023-10-17T22:00:00Z",
+"viewers": 3412.0,
+"channels": 7.0
+},
+{
+"from": "2023-10-17T23:00:00Z",
+"viewers": 3360.0,
+"channels": 7.0
+},
+{
+"from": "2023-10-18T00:00:00Z",
+"viewers": 3299.0,
+"channels": 8.0
+},
+{
+"from": "2023-10-18T01:00:00Z",
+"viewers": 3384.0,
+"channels": 10.0
+},
+{
+"from": "2023-10-18T02:00:00Z",
+"viewers": 3258.0,
+"channels": 9.0
+},
+{
+"from": "2023-10-18T03:00:00Z",
+"viewers": 2012.0,
+"channels": 8.0
+},
+{
+"from": "2023-10-18T04:00:00Z",
+"viewers": 311.0,
+"channels": 8.0
+},
+{
+"from": "2023-10-18T05:00:00Z",
+"viewers": 424.0,
+"channels": 8.0
+},
+{
+"from": "2023-10-18T06:00:00Z",
+"viewers": 337.0,
+"channels": 6.0
+},
+{
+"from": "2023-10-18T07:00:00Z",
+"viewers": 419.0,
+"channels": 7.0
+},
+{
+"from": "2023-10-18T08:00:00Z",
+"viewers": 527.0,
+"channels": 8.0
+},
+{
+"from": "2023-10-18T09:00:00Z",
+"viewers": 509.0,
+"channels": 7.0
+},
+{
+"from": "2023-10-18T10:00:00Z",
+"viewers": 413.0,
+"channels": 7.0
+},
+{
+"from": "2023-10-18T11:00:00Z",
+"viewers": 287.0,
+"channels": 5.0
+},
+{
+"from": "2023-10-18T12:00:00Z",
+"viewers": 328.0,
+"channels": 9.0
+},
+{
+"from": "2023-10-18T13:00:00Z",
+"viewers": 416.0,
+"channels": 13.0
+},
+{
+"from": "2023-10-18T14:00:00Z",
+"viewers": 483.0,
+"channels": 13.0
+},
+{
+"from": "2023-10-18T15:00:00Z",
+"viewers": 453.0,
+"channels": 5.0
+},
+{
+"from": "2023-10-18T16:00:00Z",
+"viewers": 986.0,
+"channels": 8.0
+},
+{
+"from": "2023-10-18T17:00:00Z",
+"viewers": 1302.0,
+"channels": 11.0
+},
+{
+"from": "2023-10-18T18:00:00Z",
+"viewers": 1972.0,
+"channels": 13.0
+},
+{
+"from": "2023-10-18T19:00:00Z",
+"viewers": 2028.0,
+"channels": 15.0
+},
+{
+"from": "2023-10-18T20:00:00Z",
+"viewers": 2233.0,
+"channels": 22.0
+},
+{
+"from": "2023-10-18T21:00:00Z",
+"viewers": 2213.0,
+"channels": 17.0
+},
+{
+"from": "2023-10-18T22:00:00Z",
+"viewers": 2331.0,
+"channels": 17.0
+},
+{
+"from": "2023-10-18T23:00:00Z",
+"viewers": 2460.0,
+"channels": 13.0
+},
+{
+"from": "2023-10-19T00:00:00Z",
+"viewers": 2961.0,
+"channels": 11.0
+},
+{
+"from": "2023-10-19T01:00:00Z",
+"viewers": 3335.0,
+"channels": 14.0
+},
+{
+"from": "2023-10-19T02:00:00Z",
+"viewers": 3387.0,
+"channels": 15.0
+},
+{
+"from": "2023-10-19T03:00:00Z",
+"viewers": 3494.0,
+"channels": 15.0
+},
+{
+"from": "2023-10-19T04:00:00Z",
+"viewers": 3628.0,
+"channels": 17.0
+},
+{
+"from": "2023-10-19T05:00:00Z",
+"viewers": 3745.0,
+"channels": 18.0
+},
+{
+"from": "2023-10-19T06:00:00Z",
+"viewers": 3848.0,
+"channels": 17.0
+},
+{
+"from": "2023-10-19T07:00:00Z",
+"viewers": 3680.0,
+"channels": 14.0
+},
+{
+"from": "2023-10-19T08:00:00Z",
+"viewers": 3631.0,
+"channels": 13.0
+},
+{
+"from": "2023-10-19T09:00:00Z",
+"viewers": 4287.0,
+"channels": 18.0
+},
+{
+"from": "2023-10-19T10:00:00Z",
+"viewers": 8509.0,
+"channels": 32.0
+},
+{
+"from": "2023-10-19T11:00:00Z",
+"viewers": 51173.0,
+"channels": 110.0
+},
+{
+"from": "2023-10-19T12:00:00Z",
+"viewers": 80681.0,
+"channels": 137.0
+},
+{
+"from": "2023-10-19T13:00:00Z",
+"viewers": 90007.0,
+"channels": 319.0
+},
+{
+"from": "2023-10-19T14:00:00Z",
+"viewers": 100727.0,
+"channels": 368.0
+},
+{
+"from": "2023-10-19T15:00:00Z",
+"viewers": 112184.0,
+"channels": 477.0
+},
+{
+"from": "2023-10-19T16:00:00Z",
+"viewers": 164973.0,
+"channels": 589.0
+},
+{
+"from": "2023-10-19T17:00:00Z",
+"viewers": 192764.0,
+"channels": 588.0
+},
+{
+"from": "2023-10-19T18:00:00Z",
+"viewers": 190412.0,
+"channels": 590.0
+},
+{
+"from": "2023-10-19T19:00:00Z",
+"viewers": 176153.0,
+"channels": 598.0
+},
+{
+"from": "2023-10-19T20:00:00Z",
+"viewers": 161080.0,
+"channels": 585.0
+},
+{
+"from": "2023-10-19T21:00:00Z",
+"viewers": 147017.0,
+"channels": 980.0
+},
+{
+"from": "2023-10-19T22:00:00Z",
+"viewers": 144663.0,
+"channels": 1872.0
+},
+{
+"from": "2023-10-19T23:00:00Z",
+"viewers": 137518.0,
+"channels": 2252.0
+},
+{
+"from": "2023-10-20T00:00:00Z",
+"viewers": 119087.0,
+"channels": 1784.0
+},
+{
+"from": "2023-10-20T01:00:00Z",
+"viewers": 79573.0,
+"channels": 1301.0
+},
+{
+"from": "2023-10-20T02:00:00Z",
+"viewers": 51615.0,
+"channels": 1034.0
+},
+{
+"from": "2023-10-20T03:00:00Z",
+"viewers": 50272.0,
+"channels": 1543.0
+},
+{
+"from": "2023-10-20T04:00:00Z",
+"viewers": 166214.0,
+"channels": 9769.0
+},
+{
+"from": "2023-10-20T05:00:00Z",
+"viewers": 146818.0,
+"channels": 10757.0
+},
+{
+"from": "2023-10-20T06:00:00Z",
+"viewers": 125021.0,
+"channels": 9269.0
+},
+{
+"from": "2023-10-20T07:00:00Z",
+"viewers": 109152.0,
+"channels": 6896.0
+},
+{
+"from": "2023-10-20T08:00:00Z",
+"viewers": 93203.0,
+"channels": 5271.0
+},
+{
+"from": "2023-10-20T09:00:00Z",
+"viewers": 83997.0,
+"channels": 4238.0
+},
+{
+"from": "2023-10-20T10:00:00Z",
+"viewers": 71214.0,
+"channels": 3768.0
+},
+{
+"from": "2023-10-20T11:00:00Z",
+"viewers": 43730.0,
+"channels": 3662.0
+},
+{
+"from": "2023-10-20T12:00:00Z",
+"viewers": 68551.0,
+"channels": 4057.0
+},
+{
+"from": "2023-10-20T13:00:00Z",
+"viewers": 100971.0,
+"channels": 4782.0
+},
+{
+"from": "2023-10-20T14:00:00Z",
+"viewers": 131596.0,
+"channels": 5647.0
+},
+{
+"from": "2023-10-20T15:00:00Z",
+"viewers": 164722.0,
+"channels": 6509.0
+},
+{
+"from": "2023-10-20T16:00:00Z",
+"viewers": 176018.0,
+"channels": 7322.0
+},
+{
+"from": "2023-10-20T17:00:00Z",
+"viewers": 225745.0,
+"channels": 7930.0
+},
+{
+"from": "2023-10-20T18:00:00Z",
+"viewers": 250538.0,
+"channels": 8609.0
+},
+{
+"from": "2023-10-20T19:00:00Z",
+"viewers": 240849.0,
+"channels": 9424.0
+},
+{
+"from": "2023-10-20T20:00:00Z",
+"viewers": 258378.0,
+"channels": 10076.0
+},
+{
+"from": "2023-10-20T21:00:00Z",
+"viewers": 263140.0,
+"channels": 10267.0
+},
+{
+"from": "2023-10-20T22:00:00Z",
+"viewers": 253088.0,
+"channels": 10211.0
+},
+{
+"from": "2023-10-20T23:00:00Z",
+"viewers": 216387.0,
+"channels": 10007.0
+},
+{
+"from": "2023-10-21T00:00:00Z",
+"viewers": 187744.0,
+"channels": 9980.0
+},
+{
+"from": "2023-10-21T01:00:00Z",
+"viewers": 153421.0,
+"channels": 10143.0
+},
+{
+"from": "2023-10-21T02:00:00Z",
+"viewers": 125056.0,
+"channels": 10178.0
+},
+{
+"from": "2023-10-21T03:00:00Z",
+"viewers": 112954.0,
+"channels": 9679.0
+},
+{
+"from": "2023-10-21T04:00:00Z",
+"viewers": 95636.0,
+"channels": 8853.0
+},
+{
+"from": "2023-10-21T05:00:00Z",
+"viewers": 75756.0,
+"channels": 7719.0
+},
+{
+"from": "2023-10-21T06:00:00Z",
+"viewers": 35364.0,
+"channels": 6282.0
+},
+{
+"from": "2023-10-21T07:00:00Z",
+"viewers": 28549.0,
+"channels": 4859.0
+},
+{
+"from": "2023-10-21T08:00:00Z",
+"viewers": 25208.0,
+"channels": 3893.0
+},
+{
+"from": "2023-10-21T09:00:00Z",
+"viewers": 30347.0,
+"channels": 3320.0
+},
+{
+"from": "2023-10-21T10:00:00Z",
+"viewers": 28915.0,
+"channels": 3016.0
+},
+{
+"from": "2023-10-21T11:00:00Z",
+"viewers": 27606.0,
+"channels": 3066.0
+},
+{
+"from": "2023-10-21T12:00:00Z",
+"viewers": 36434.0,
+"channels": 3422.0
+},
+{
+"from": "2023-10-21T13:00:00Z",
+"viewers": 46748.0,
+"channels": 4063.0
+},
+{
+"from": "2023-10-21T14:00:00Z",
+"viewers": 62510.0,
+"channels": 4784.0
+},
+{
+"from": "2023-10-21T15:00:00Z",
+"viewers": 73835.0,
+"channels": 5511.0
+},
+{
+"from": "2023-10-21T16:00:00Z",
+"viewers": 85827.0,
+"channels": 6122.0
+},
+{
+"from": "2023-10-21T17:00:00Z",
+"viewers": 107082.0,
+"channels": 6648.0
+},
+{
+"from": "2023-10-21T18:00:00Z",
+"viewers": 113617.0,
+"channels": 7130.0
+},
+{
+"from": "2023-10-21T19:00:00Z",
+"viewers": 121586.0,
+"channels": 7659.0
+},
+{
+"from": "2023-10-21T20:00:00Z",
+"viewers": 175412.0,
+"channels": 7955.0
+},
+{
+"from": "2023-10-21T21:00:00Z",
+"viewers": 186469.0,
+"channels": 8054.0
+},
+{
+"from": "2023-10-21T22:00:00Z",
+"viewers": 160952.0,
+"channels": 7889.0
+},
+{
+"from": "2023-10-21T23:00:00Z",
+"viewers": 136541.0,
+"channels": 7621.0
+},
+{
+"from": "2023-10-22T00:00:00Z",
+"viewers": 98611.0,
+"channels": 7487.0
+},
+{
+"from": "2023-10-22T01:00:00Z",
+"viewers": 81586.0,
+"channels": 7453.0
+},
+{
+"from": "2023-10-22T02:00:00Z",
+"viewers": 56497.0,
+"channels": 7308.0
+},
+{
+"from": "2023-10-22T03:00:00Z",
+"viewers": 41737.0,
+"channels": 7085.0
+},
+{
+"from": "2023-10-22T04:00:00Z",
+"viewers": 42250.0,
+"channels": 6560.0
+},
+{
+"from": "2023-10-22T05:00:00Z",
+"viewers": 37702.0,
+"channels": 5752.0
+},
+{
+"from": "2023-10-22T06:00:00Z",
+"viewers": 32489.0,
+"channels": 4710.0
+},
+{
+"from": "2023-10-22T07:00:00Z",
+"viewers": 25881.0,
+"channels": 3756.0
+},
+{
+"from": "2023-10-22T08:00:00Z",
+"viewers": 20662.0,
+"channels": 3037.0
+},
+{
+"from": "2023-10-22T09:00:00Z",
+"viewers": 19713.0,
+"channels": 2563.0
+},
+{
+"from": "2023-10-22T10:00:00Z",
+"viewers": 17732.0,
+"channels": 2301.0
+},
+{
+"from": "2023-10-22T11:00:00Z",
+"viewers": 23625.0,
+"channels": 2347.0
+},
+{
+"from": "2023-10-22T12:00:00Z",
+"viewers": 33778.0,
+"channels": 2656.0
+},
+{
+"from": "2023-10-22T13:00:00Z",
+"viewers": 41869.0,
+"channels": 3187.0
+},
+{
+"from": "2023-10-22T14:00:00Z",
+"viewers": 51325.0,
+"channels": 3806.0
+},
+{
+"from": "2023-10-22T15:00:00Z",
+"viewers": 64975.0,
+"channels": 4393.0
+},
+{
+"from": "2023-10-22T16:00:00Z",
+"viewers": 65770.0,
+"channels": 4925.0
+},
+{
+"from": "2023-10-22T17:00:00Z",
+"viewers": 64143.0,
+"channels": 5350.0
+},
+{
+"from": "2023-10-22T18:00:00Z",
+"viewers": 58811.0,
+"channels": 5743.0
+},
+{
+"from": "2023-10-22T19:00:00Z",
+"viewers": 52905.0,
+"channels": 6120.0
+},
+{
+"from": "2023-10-22T20:00:00Z",
+"viewers": 61964.0,
+"channels": 6296.0
+},
+{
+"from": "2023-10-22T21:00:00Z",
+"viewers": 69355.0,
+"channels": 6172.0
+},
+{
+"from": "2023-10-22T22:00:00Z",
+"viewers": 80190.0,
+"channels": 6029.0
+},
+{
+"from": "2023-10-22T23:00:00Z",
+"viewers": 82403.0,
+"channels": 5803.0
+}
+]
+}
+}
