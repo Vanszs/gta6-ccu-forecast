@@ -23,7 +23,7 @@ KIT_INPUT = Path("/tmp/opencode/kit-gta6/input")
 sys.path.insert(0, str(REPO))
 sys.path.insert(0, str(HERE))
 from main import LEVELS, forecast_case  # noqa: E402
-from model import practice_answers, pinball_item  # noqa: E402
+from model import pinball_item, practice_answers  # noqa: E402
 
 
 def run(mode: str) -> dict[str, dict]:

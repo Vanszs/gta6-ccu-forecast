@@ -50,12 +50,26 @@ def launch_from_comparable(c: dict) -> dict:
     }
 
 
+def practice_hourly() -> dict:
+    """The four practice launches' public curves, rebuilt by dev/fetch_practice.py + dev/build_practice.py.
+
+    Kept out of the repository on purpose: it is generated data, and the transcript bundle's authorship
+    check weighs lines a file's write never carried. Rebuild it in one step before running anything here.
+    """
+    path = HERE / "practice_hourly.json"
+    if not path.exists():
+        raise SystemExit(
+            f"{path} is missing: run `python3 dev/fetch_practice.py` then `python3 dev/build_practice.py`"
+        )
+    return json.loads(path.read_text())
+
+
 def load_launches() -> list[dict]:
     seen = {}
     for path in sorted(glob.glob(f"{KIT_INPUT}/*.in")):
         for c in json.load(open(path))["comparables"]:
             seen.setdefault(c["name"], launch_from_comparable(c))
-    for name, blob in json.loads((HERE / "practice_hourly.json").read_text()).items():
+    for name, blob in practice_hourly().items():
         cv = curve_from_rows(blob["day_start"], blob["hourly"], "from", "viewers")
         seen.setdefault(
             name,
@@ -205,7 +219,7 @@ def cv_all(feats: list[dict], p: dict) -> tuple[float, list[tuple[str, float, in
 
 def practice_answers() -> dict[str, dict]:
     """The 4 practice cases: id -> {day_start, hour-1 print, the 23 answered hours}."""
-    built = json.loads((HERE / "practice_hourly.json").read_text())
+    built = practice_hourly()
     out = {}
     for path in sorted(glob.glob(f"{KIT_INPUT}/*.in")):
         case = json.load(open(path))
